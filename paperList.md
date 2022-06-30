@@ -6,8 +6,7 @@
 |02 |ViLBERT |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
 |03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
 |04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
-
-
+|06 |VL-BERT |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
 
 
 
