@@ -124,17 +124,17 @@ Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModel
 |24 |UNIMO  |arXiv-2020 |image-text  |Trans  |CS  |Adapt to single-, multi-modal understanding and generation tasks effectively  |[[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)]  
 
 
-
+[[Paper]()]    
 ### Year 2019 and Before 
 |**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
-|01 |VisualBERT: Li, Liunian Harold, et al. "Visualbert: A simple and performant baseline for vision and language." |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |[[Code](https://github.com/uclanlp/visualbert)]
-|02 |ViLBERT： Lu, Jiasen, et al. "Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks." |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
-|03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
-|04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
-|05 |VL-BERT |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
-|06 |VideoBERT  |ICCV-2019 |video-text  |BERT  |MLM|A simple model for video-text feature learning |[[Code](https://github.com/ammesatyajit/VideoBERT)]  
-|07 |CBT |arXiv-2019  |video-text  |Trans  |NCE  |Self-supervised contrastive bidirectional Transformer  |-  
+|01 |**VisualBERT**: Li, Liunian Harold, et al. "Visualbert: A simple and performant baseline for vision and language." [[Paper](https://arxiv.org/abs/1908.03557)] |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |[[Code](https://github.com/uclanlp/visualbert)]
+|02 |**ViLBERT**： Lu, Jiasen, et al. "Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks." [[Paper](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf)] |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
+|03 |**LXMERT**: Tan, Hao, and Mohit Bansal. "LXMERT: Learning Cross-Modality Encoder Representations from Transformers." [[Paper](https://aclanthology.org/D19-1514/)] |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
+|04 |**B2T2**: Alberti, Chris, et al. "Fusion of detected objects in text for visual question answering." [[Paper](https://pennstate.pure.elsevier.com/en/publications/fusion-of-detected-objects-in-text-for-visual-question-answering)] |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]
+|05 |**VL-BERT**: Su, Weijie, et al. "VL-BERT: Pre-training of Generic Visual-Linguistic Representations." [[Paper](https://openreview.net/forum?id=SygXPaEYvH)] |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
+|06 |**VideoBERT**: Sun, Chen, et al. "Videobert: A joint model for video and language representation learning." [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)]  |ICCV-2019 |video-text  |BERT  |MLM|A simple model for video-text feature learning |[[Code](https://github.com/ammesatyajit/VideoBERT)]  
+|07 |**CBT**: Sun, Chen, et al. "Learning video representations using contrastive bidirectional transformer." [[Paper](https://arxiv.org/abs/1906.05743)] |arXiv-2019  |video-text  |Trans  |NCE  |Self-supervised contrastive bidirectional Transformer  |-  
 
 
 ## Experimental Analysis 
