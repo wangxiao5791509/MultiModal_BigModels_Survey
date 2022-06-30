@@ -32,9 +32,9 @@ Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModel
 
 ### Year 2020 
 
-### Year 2019 
+### Year 2019 and Before
 
-### Before Year 2019 
+
 
 
 ## Experimental Analysis 
@@ -42,12 +42,19 @@ Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModel
 <img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/modelsGPUsParmas.png" width="1000px">
 
 
-## Citation 
+## :page_with_curl: BibTex: 
+If you find this survey useful for your research, please cite the following papers: 
 
+```bibtex
+@article{wang2022MMPTMSurvey,
+  title={Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey},
+  author={Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao},
+  journal={arXiv:xxx},
+  year={2022}
+}
+```
 
-
-
-
+If you have any questions about this survey, please email me via: xiaowang@ahu.edu.cn or wangxiaocvpr@foxmail.com 
 
 
 
