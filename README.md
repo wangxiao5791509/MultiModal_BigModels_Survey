@@ -23,7 +23,7 @@ Please check this file [[Datasets.md](https://github.com/wangxiao5791509/MultiMo
 
 
 ## Publications 
-Please check this file [[paperList.md]([https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/Datasets.md](https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/paperList.md))]
+Please check this file [[paperList.md](https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/paperList.md)]
 
 
 
