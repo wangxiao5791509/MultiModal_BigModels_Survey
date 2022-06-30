@@ -8,7 +8,8 @@
 |03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
 |04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
 |06 |VL-BERT |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
-
+|37 |VideoBERT  |ICCV-2019 |video-text  |BERT  |MLM|A simple model for video-text feature learning |[[Code](https://github.com/ammesatyajit/VideoBERT)]  
+|38 |CBT |arXiv-2019  |video-text  |Trans  |NCE  |Self-supervised contrastive bidirectional Transformer  |-  
 
 
 
@@ -27,10 +28,11 @@
 |16 |OSCAR |ECCV-2020 |image-text |Trans |CS, MLM |Use object tags as anchor points to align image regions with word embeddings |[[Code](https://github.com/microsoft/Oscar)] 
 |18 |FashionBERT |RDIR-2020 |image-text |BERT |MLM, MOR, MML |Use image patches for fashion domain instead of RoIs |[[Code](https://github.com/alibaba/EasyTransfer)] 
 |19 |VILLA |NeurIPS-2020 |image-text |Trans |MLM, MOR, MML |Pre-training with adversarial learning |[[Code](https://github.com/zhegan27/VILLA)] 
-
-
-
-
+|39 |UniVL  |arXiv-2020  |video-text  |Trans  |MLM, MFM, MML, ITG  |A unified model for multimodal understanding and generation  |[[Code](https://github.com/microsoft/UniVL)]  
+|40 |HERO  |EMNLP-2020  |video-text  |Trans  |MLM, MFM, VSM, FOM |Hierarchical Transformer-based model trained with newly proposed VSM and FOM  |[[Code](https://github.com/linjieli222/HERO)] 
+|41 |MMFT-BERT  |EMNLP-2020  |image-text  |BERT  |Classification |Adopt multiModal fusion Transformer for modality fusion|[[Code](https://github.com/aurooj/MMFT-BERT)] 
+|42 |ActBERT  |CVPR-2020 |image-text  |Trans |CS, GR  |Extract actions explicitly as one of the inputs  |-  
+|46 |UNIMO  |arXiv-2020 |image-text  |Trans  |CS  |Adapt to single-, multi-modal understanding and generation tasks effectively  |[[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)]  
 
 
 
