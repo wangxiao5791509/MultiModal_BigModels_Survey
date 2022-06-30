@@ -22,18 +22,7 @@ Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModel
 
 
 ## Publications 
-
-
-
-
-### Year 2022 
-
-### Year 2021 
-
-### Year 2020 
-
-### Year 2019 and Before
-
+Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/paperList.md)]
 
 
 
