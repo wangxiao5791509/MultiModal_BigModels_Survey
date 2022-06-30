@@ -8,10 +8,11 @@
 </div>
 
 
-<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/milestone.jpg" width="1000px">
 
 ## Framework of this survey
 <img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/framework.png" width="1000px">
+<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/milestone.jpg" width="1000px">
+
 
 ## Review and Surveys
 Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/Surveys.md)]
