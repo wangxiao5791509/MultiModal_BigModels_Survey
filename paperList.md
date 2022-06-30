@@ -84,9 +84,16 @@
 |**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
 |17 |pyramidCLIP |arXiv-2022  |image-text |CNN+Trans |CS|Hierarchical image-text contrastive learning|- 
- 
-
-
+|49 |VLC|arXiv-2022 |image-text  |ViT  |MIM, MLM ITM|Built on top of MAE that does not require trained on ImageNet|[[Code](https://github.com/guilk/VLC)]  
+|56 |VLCDoC|arXiv-2022 |image-text  |Trans  |CS |Contrastive Pre-Training for document classification |-  
+|57 |MVP |arXiv-2022  |image-text  |ViT  |MIM|Multimodality-guided visual pre-training leads to impressive gains |- 
+|59 |COTS |arXiv-2022 |image-text  |Trans  |CS, KLD, MVLM|Token- and task-level interaction are proposed to enhance cross-modal interaction |-  
+|61 |Flamingo |arXiv-2022 |image-text  |NFNet  |CS  |An architecture for accepting arbitrarily interleaved visual data and text as input |[[Code](https://github.com/lucidrains/flamingo-pytorch)]  
+|63 |BLIP |arXiv-2022 |image-text |BERT  |CS, MML, MLM  |Propose the multimodal mixture of encoder-decoder, and captioning-filtering scheme |[[Code](https://github.com/salesforce/BLIP)]  
+|65 |TCL |CVPR-2022 |image-text  |BERT  |CMA, IMC, LMI ITM, MLM  |The first work considers local structure information for multi-modality representation learning |[[Code](https://github.com/uta-smile/TCL)]  
+|66 |SCALE |CVPR-2022 |image, text, table video, audio  |BERT  |MRP, MLM, MEM MFP, MFP, MAM|A unified model to handle five modalities  |[[Code](https://xiaodongsuper.github.io/M5Product_dataset/)]  
+|67 |Clinical-BERT |AAAI-2022 |image-text  |BERT  |CD, MMM MLM, IMM  |The first work to learn domain knowledge during pre-training for the medical domain |- 
+|69 |ProbES |ACL-2022 |image-text  |LSTM, ViLBERT  |Ranking loss |Prompt-based learning for VLN based on CLIP |[[Code](https://github.com/liangcici/Probes-VLN)]   
 
 
 
