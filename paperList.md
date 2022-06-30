@@ -37,6 +37,26 @@
 
 
 
+### Year 2021 
+|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
+|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
+|13 |XGPT |NLPCC-2021 |image-text |Trans |IC, MLM, IDA, MOR |Novel IDA pre-training; Share parameters between encoder and decoder |- 
+|20 |ERNIE-ViL |AAAI-2021 |image-text |Trans |MOC, AttP, RelP, MLM, MOR, MML |Use the knowledge obtained from scene graph |[[Code](https://github.com/Muennighoff/vilio)] 
+|21 |KVL-BERT |KBS-2021 |image-text |BERT |MOC, MLM |Integrate commonsense knowledge for visual commonsense reasoning |- 
+|22 |VinVL |CVPR-2021 |image-text |Trans |MTL, 3-way CS |Verifying that visual feature matters in VLP, i.e., strong object detector brings better results |[[Code](https://github.com/pzzhang/VinVL)] 
+|23 |VL-T5 |ICML-2021 |image-text |Trans |MLM, VQA, MML, VG, GC |Unified framework for VL via generating texts |[[Code](https://github.com/j-min/VL-T5)] 
+|24 |ViLT |ICML-2021 |image-text |Trans |MLM, MML |Use linear embedding only for Fast VL transformer|[[Code](https://github.com/dandelin/vilt)] 
+|25 |ALIGN |ICML-2021 |image-text |EfficientNet, BERT |CS |Milestone for image-text pre-training using noisy data  |- 
+|26 |Kaleido-BERT |CVPR-2021 |image-text |Trans |MLM, MML, AKPM |Use saliency detector to generate multi-grained patches |[[Code](http://dpfan.net/Kaleido-BERT)] 
+|27 |MDETR |ICCV-2021 |image-text |CNN+Trans |STP, MML |An end-to-end text-modulated detection system |[[Code](https://github.com/ashkamath/mdetr)] 
+|28 |SOHO |CVPR-2021 |image-text |CNN+Trans |MLM, MOR, MML|Use a dynamic-updated visual dictionary for vision-language alignment |[[Code](https://github.com/researchmm/soho)] 
+|29 |E2E-VLP |ACL-2021 |image-text |Trans |OBD, ITG |The first end-to-end pre-trained model for V+L understanding and generation |- 
+|30 |PIM |NeurIPS-2021  |image-text |Trans |MLM, MML, MOR |Propose a inter-modality flow metric to measure and reveal vision and language fusion |- 
+|31 |CLIP-ViL |arXiv-2021 |image-text |Trans |MLM, VQA, MML |Take the CLIP visual encoder as its visual backbone |[[Code](https://github.com/clip-vil/CLIP-ViL)] 
+|32 |ALBEF |NeurIPS-2021 |image-text |Trans |CS, GR |Design a momentum model to address noisy data |[[Code](https://github.com/salesforce/ALBEF)]	 
+|33 |SimVLM |arXiv-2021 |image-text |Trans |PrefixLM |Simple VL model using single PrefixLM pre-training objective only |- 
+|34 |MURAL |arXiv-2021 |image-text |Trans |CS |Adopt multi-task contrastive learning objective (image-text, text-text) |- 
+|35 |VLMo |arXiv-2021 |image-text |Trans |MLM, MML, CS |Jointly learns visual-, text-encoder and a fusion encoder |[[Code](https://aka.ms/vlmo)] 
 
 
 
@@ -44,9 +64,11 @@
 
 
 
-
-
-
+### Year 2022 
+|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
+|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
+|17 |pyramidCLIP |arXiv-2022  |image-text |CNN+Trans |CS|Hierarchical image-text contrastive learning|- 
+ 
 
 
 
