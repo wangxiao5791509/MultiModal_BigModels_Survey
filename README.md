@@ -34,8 +34,8 @@ Please check this [[file](https://github.com/wangxiao5791509/MultiModal_BigModel
 
 
 ## Experimental Analysis 
-<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/experimentResults.png" width="500px">
-<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/modelsGPUsParmas.png" width="500px">
+<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/experimentResults.png" width="1000px">
+<img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/modelsGPUsParmas.png" width="1000px">
 
 
 ## Citation 
