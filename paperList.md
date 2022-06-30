@@ -77,6 +77,11 @@
 |64 |NUWA |arXiv-2021 |image-text  |Trans  |T2I, T2V, V2V  |A 3D transformer framework can handle image, text, and video, simultaneously |[[Code](https://github.com/microsoft/NUWA)]  
 |70 |GLIP |CVPR-2022 |image-text  |BERT  |CS|Unifying detection and grounding by reformulating object detection as phrase grounding |[[Code](https://github.com/microsoft/GLIP)]  
 |68 |RegionCLIP |CVPR-2022 |image-text  |Trans  |Distillation loss, CS  |Learn region-level visual representations based on CLIP  |[[Code](https://github.com/microsoft/RegionCLIP)]  
+|73 |DeCLIP |ICLR-2022 |image-text |ViT |InfoNCE, SS MVS, NNS |Learn generic visual features in a data efficient way |[[Code](https://github.com/Sense-GVT/DeCLIP)] 
+|75 |SLIP |arXiv-2021 |image-text |ViT |CS, InfoNCE|Combine the self-supervised learning and CLIP pre-training in a multi-task framework |[[Code](https://github.com/facebookresearch/SLIP)] 
+|76 |FILIP |arXiv-2021 |image-text |ViT |CS|Achieve finer-level alignment using the cross-modal late interaction scheme |- 
+|77 |SemVLP |arXiv-2021 |image-text |Trans |MLM, MOP, ITM, QA |Fuse the single- and two-stream architectures |- 
+ 
  
 
 
@@ -94,11 +99,21 @@
 |66 |SCALE |CVPR-2022 |image, text, table video, audio  |BERT  |MRP, MLM, MEM MFP, MFP, MAM|A unified model to handle five modalities  |[[Code](https://xiaodongsuper.github.io/M5Product_dataset/)]  
 |67 |Clinical-BERT |AAAI-2022 |image-text  |BERT  |CD, MMM MLM, IMM  |The first work to learn domain knowledge during pre-training for the medical domain |- 
 |69 |ProbES |ACL-2022 |image-text  |LSTM, ViLBERT  |Ranking loss |Prompt-based learning for VLN based on CLIP |[[Code](https://github.com/liangcici/Probes-VLN)]   
-
-
-
-
-
+|71 |VLP-MABSA |ACL-2022 |image-text |BERT |MLM, AOE, MRM AOG, MSP |Task-specific VL-PTMs for multimodal aspect-based sentiment analysis |[[Code](https://github.com/NUSTM/VLP-MABSA )]
+|72 |R2D2 |arXiv-2022 |image-text |ViT, BERT |GCPR, FGR, MLM |A two-way distillation strategy is proposed, i.e., target- and feature-guided distillation |- 
+|74 |DeFILIP|arXiv-2022 |image-text |ViT, ResNet |CS |A benchmark for CLIP and its variants |[[Code](https://github.com/Sense-GVT/DeCLIP)]  
+|78 |CoCa |arXiv-2022 |image-text |Trans |CS, ITG |Jointly pre-train image text model with contrastive loss and captioning loss |- 
+|79 |HiVLP |arXiv-2022 |image-text |Trans |LRM, HRL, VLM |Accelerate image-text retrieval via hierarchical retrieval |- 
+|80 |CLIP-Event |CVPR-2022 |image-text |Trans |CS |Consider event structural knowledge and prompts in the pre-training phase.|[[Code](https://github.com/limanling/clip-event)] 
+|81 |AudioCLIP |ICASSP-2022 |image-text-audio |Trans |CS |Build a triplet modality based PTMs like CLIP |[[Code](https://github.com/AndreyGuzhov/AudioCLIP)] 
+|82 |VL-BEiT |arXiv-2022 |image-text |Trans |MLM, MIM, MVLM |Pretrain on both monomodal and multimodal data using a shared Transformer |[[Code](https://github.com/microsoft/unilm)] 
+|83 |MV-GPT |arXiv-2022 |image-text |BERT |MLM, LG |Pre-train both a multi-modal video encoder and a sentence decoder jointly. |- 
+|84 |MMKD |arXiv-2022 |image-text |BERT |ITM |Iteratively execute knowledge discovery and model pre-training for continuous learning |-
+|85 |GLIPv2 |arXiv-2022 |image-text |Swin, BERT |PGL, CS, MLM |Serves both the localization and understanding tasks. |[[Code](https://github.com/microsoft/GLIP)]
+|86 |LIMoE |arXiv-2022 |image-text |Trans |CS |multi-modal pre-training with a sparse mixture of experts model |- 
+|87 |VLMixer |arXiv-2022 |image-text |Trans |MLM, CMCL, MTM |Implicit cross-modal alignment learning in unpaired VLP. |[[Code](https://github.com/ttengwang/VLMixer)]
+|88 |ProtoCLIP |arXiv-2022 |image-text |Trans |CS |Combine the CLIP loss and prototypical supervisions for VLP. |[[Code](https://github.com/megvii-research/protoclip)] 
+|89 |i-Code |arXiv-2022 |image-text-audio |Trans |MLM, MVM MSM, CS |It can handle different combinations of modalities (such as single-, dual-, and triple-modality) into a single representation space. |- 
 
 
 
