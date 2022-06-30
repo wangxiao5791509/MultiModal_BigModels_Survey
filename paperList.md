@@ -2,10 +2,10 @@
 
 |**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
-|01 |VisualBERT |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |https://github.com/uclanlp/visualbert 
-|02 |ViLBERT |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |https://github.com/jiasenlu/vilbert_beta 
-|03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |https://github.com/airsplay/lxmert 
-|04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |https://github.com/google-research/language/tree/master/language/question_answering/b2t2 
+|01 |VisualBERT |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |[[Code](https://github.com/uclanlp/visualbert)]
+|02 |ViLBERT |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
+|03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
+|04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
 
 
 
