@@ -1,6 +1,6 @@
 
 
-**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao. [[Paper]()]
+**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, [[Xiao Wang](https://wangxiao5791509.github.io/)], Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao. [[Paper]()]
 
 
 
