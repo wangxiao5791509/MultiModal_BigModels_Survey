@@ -1,6 +1,5 @@
 
-* **An overview of multi-modal datasets proposed for large-scale pre-training.
-and Available, respectively.** 
+* **An overview of multi-modal datasets proposed for large-scale pre-training.** 
 
 |**NO.**     | **Dataset**   | **Year**           | **Scale**           | **Modality**       | **Language**      |**Available**  |**URL**            |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
