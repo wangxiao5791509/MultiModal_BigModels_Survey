@@ -59,11 +59,25 @@
 |33 |SimVLM |arXiv-2021 |image-text |Trans |PrefixLM |Simple VL model using single PrefixLM pre-training objective only |- 
 |34 |MURAL |arXiv-2021 |image-text |Trans |CS |Adopt multi-task contrastive learning objective (image-text, text-text) |- 
 |35 |VLMo |arXiv-2021 |image-text |Trans |MLM, MML, CS |Jointly learns visual-, text-encoder and a fusion encoder |[[Code](https://aka.ms/vlmo)] 
-
-
-
-
-
+|36 |METER~\cite{dou2021METER  |CVPR-2022  |image-text  |Trans  |MLM, MOR, MOC, MML |An empirical study on VLP  |[[Code](https://github.com/zdou0830/METER)] 
+|43 |CLIP~\cite{radford2021CLIP  |ICML-2021 |image-text  |Resnet, Trans |CS  |Milestone for image-text pre-training using noisy data |[[Code](https://github.com/OpenAI/CLIP)] 
+|44 |Frozen~\cite{bain2021frozen  |ICCV-2021 |video/image-text  |Trans  |MML  |Flexibly trained on both images and videos with captions jointly  |[[Code](https://github.com/m-bain/frozen-in-time)]  
+|45 |RegionLearner~\cite{yan2021RegionLearner  |arXiv-2021 |video-text  |Trans  |MML  |Implicitly learning object region without position supervision  |[[Code](https://github.com/showlab/Region_Learner)]  
+|47 |DALL-E~\cite{ramesh2021DALLE |ICML-2021  |image-text  |Trans  |ELB  |Achieve high quality image generation without using any of the training labels  |[[Code](https://github.com/openai/DALL-E)]  
+|48 |BriVL~\cite{huo2021wenlan |arXiv-2021  |image-text  |Trans  |InfoNCE  |First large-scale Chinese multi-modal pre-training model |[[Code](https://github.com/chuhaojin/WenLan-api-document)]  
+|50 |M6~\cite{lin2021m6 |arXiv-2021 |image-text  |Trans  |LM  |The largest pretrained model in Chinese |- 
+|51 |CogView~\cite{ding2021cogview |NeurIPS-2021  |image-text  |Trans  |NLL|The first open-source large text-to-image transformer  |[[Code](https://github.com/THUDM/CogView)]  
+|52 |VATT~\cite{akbari2021vatt |NeurIPS-2021  |Video, Audio, Text  |Trans  |NCE, MIL-NCE |Modality-specific or Modality-agnostic triplet modality pre-trained model |[[Code](https://github.com/google-research/google-research/tree/master/vatt)]  
+|53 |OPT~\cite{liu2021opt |arXiv-2021 |image, Audio, Text  |Trans  |MLM, MVM, MoLM MAM, DTR, DIR  |The first pre-trained model that connects the three modalities of text, vision, and audio  |-  
+|54 |Florence~\cite{yuan2021florence |arXiv-2021 |image-text  |CoSwin  |UniCL|Expand the representations from coarse-to-fine, static-to-dynamic, and RGB-to-MM |-  
+|55 |ROSITA~\cite{cui2021rosita |MM-2021 |image-text  |Trans  |SKM, MLM, MRM |Incorporates both cross- and intra-modal knowledge, and proposed SKM strategy  |-  
+|58 |GilBERT~\cite{hong2021gilbert |IR-2021 |image-text  |BERT  |MLM, MOR  |Employ image-to-text captioning and text-to-image synthesizing in VLP |-  
+|60 |U-VisualBERT~\cite{li2021Uvisualbert |NAACL-2021  |image-text |Trans, BERT  |GR, MML  |\emph{Unpaired image-text data for pre-training |[[Code](https://github.com/uclanlp/visualbert)]  
+|62 |M3P~\cite{ni2021m3p |CVPR-2021 |image-text  |BERT  |xMLM, MC-MLM, MC-MRM  |Multitask, Multilingual, Multimodal Pre-training |[[Code](https://github.com/microsoft/M3P)] 
+|64 |NUWA~\cite{wu2021nvwa |arXiv-2021 |image-text  |Trans  |T2I, T2V, V2V  |A 3D transformer framework can handle image, text, and video, simultaneously |[[Code](https://github.com/microsoft/NUWA)]  
+|70 |GLIP~\cite{li2021GLIP |CVPR-2022 |image-text  |BERT  |CS|Unifying detection and grounding by reformulating object detection as phrase grounding |[[Code](https://github.com/microsoft/GLIP)]  
+|68 |RegionCLIP~\cite{zhong2021regionclip |CVPR-2022 |image-text  |Trans  |Distillation loss, CS  |Learn region-level visual representations based on CLIP  |[[Code](https://github.com/microsoft/RegionCLIP)]  
+ 
 
 
 ### Year 2022 
