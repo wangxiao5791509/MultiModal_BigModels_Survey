@@ -25,6 +25,11 @@
 
 
 
+|14 |InterBERT |arXiv-2020 |image-text |Trans |MSM, MOC, ITM-hn |Finding that all-attention works better than co-attention for modal interaction |[[Code](https://github.com/black4321/InterBERT)] 
+|15 |PixelBERT |arXiv-2020 |image-text |CNN, Trans |MLM, MML |First to align vision and language in pixel and text-level |- 
+|16 |OSCAR |ECCV-2020 |image-text |Trans |CS, MLM |Use object tags as anchor points to align image regions with word embeddings |[[Code](https://github.com/microsoft/Oscar)] 
+|18 |FashionBERT |RDIR-2020 |image-text |BERT |MLM, MOR, MML |Use image patches for fashion domain instead of RoIs |[[Code](https://github.com/alibaba/EasyTransfer)] 
+|19 |VILLA |NeurIPS-2020 |image-text |Trans |MLM, MOR, MML |Pre-training with adversarial learning |[[Code](https://github.com/zhegan27/VILLA)] 
 
 
 
