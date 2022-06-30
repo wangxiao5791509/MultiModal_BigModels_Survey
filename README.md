@@ -1,13 +1,8 @@
 <div align="center">
   
 
-**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey** \\ 
-Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao.
+**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao. [[Paper]()]
 ------
-<p align="center">
-  <a href="">Paper</a> • 
-</p>
-
 </div>
 
 
