@@ -1,91 +1,16 @@
 * **The summary of mainstream multi-modal pre-trained big models.** 
 
-### Year 2019 and Before 
-|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
-|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
-|01 |VisualBERT |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |[[Code](https://github.com/uclanlp/visualbert)]
-|02 |ViLBERT |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
-|03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
-|04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
-|05 |VL-BERT |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
-|06 |VideoBERT  |ICCV-2019 |video-text  |BERT  |MLM|A simple model for video-text feature learning |[[Code](https://github.com/ammesatyajit/VideoBERT)]  
-|07 |CBT |arXiv-2019  |video-text  |Trans  |NCE  |Self-supervised contrastive bidirectional Transformer  |-  
-
-
-
-### Year 2020 
-|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
-|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
-|08 |Unicoder-VL |AAAI-2020 |image-text |Trans |GR, MML, MOC |Single transformer encoder for VLP |[[Code](https://github.com/microsoft/Unicoder)]
-|09 |VLP |AAAI-2020 |image-text |Trans |BiDT, Seq2seq |Unified encoder-decoder network architecture |[[Code](https://github.com/LuoweiZhou/VLP)] 
-|10 |UNITER |ECCV-2020 |image-text |Trans |MRA, MML |Propose an OT-based Word-Region Alignment objective |[[Code](https://github.com/ChenRocks/UNITER)]  
-|11 |12-IN-1  |CVPR-2020  |image-text |Trans |CS, GR |Training jointly on 12 different datasets in a multi-task learning manner |[[Code](https://github.com/facebookresearch/vilbert-multi-task)] 
-|12 |VisDial-BERT |ECCV-2020 |image-text |Trans |MLM, NSP, MIR |Pre-training on image-text corpus and finetuning on visual dialog |[[Code](https://github.com/vmurahari3/visdial-bert/)]
-|13 |ImageBERT |arXiv-2020 |image-text |Trans |MOC, MLM, MML, MOR |Indicating that multi-stage pre-training works better |-  
-|14 |PREVALENT |CVPR-2020 |image-text |Trans |MLM, AP |Pre-training for vision and language navigation |[[Code](https://github.com/weituo12321/PREVALENT)] 
-|15 |InterBERT |arXiv-2020 |image-text |Trans |MSM, MOC, ITM-hn |Finding that all-attention works better than co-attention for modal interaction |[[Code](https://github.com/black4321/InterBERT)] 
-|16 |PixelBERT |arXiv-2020 |image-text |CNN, Trans |MLM, MML |First to align vision and language in pixel and text-level |- 
-|17 |OSCAR |ECCV-2020 |image-text |Trans |CS, MLM |Use object tags as anchor points to align image regions with word embeddings |[[Code](https://github.com/microsoft/Oscar)] 
-|18 |FashionBERT |RDIR-2020 |image-text |BERT |MLM, MOR, MML |Use image patches for fashion domain instead of RoIs |[[Code](https://github.com/alibaba/EasyTransfer)] 
-|19 |VILLA |NeurIPS-2020 |image-text |Trans |MLM, MOR, MML |Pre-training with adversarial learning |[[Code](https://github.com/zhegan27/VILLA)] 
-|20 |UniVL  |arXiv-2020  |video-text  |Trans  |MLM, MFM, MML, ITG  |A unified model for multimodal understanding and generation  |[[Code](https://github.com/microsoft/UniVL)]  
-|21 |HERO  |EMNLP-2020  |video-text  |Trans  |MLM, MFM, VSM, FOM |Hierarchical Transformer-based model trained with newly proposed VSM and FOM  |[[Code](https://github.com/linjieli222/HERO)] 
-|22 |MMFT-BERT  |EMNLP-2020  |image-text  |BERT  |Classification |Adopt multiModal fusion Transformer for modality fusion|[[Code](https://github.com/aurooj/MMFT-BERT)] 
-|23 |ActBERT  |CVPR-2020 |image-text  |Trans |CS, GR  |Extract actions explicitly as one of the inputs  |-  
-|24 |UNIMO  |arXiv-2020 |image-text  |Trans  |CS  |Adapt to single-, multi-modal understanding and generation tasks effectively  |[[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)]  
-
-
-
-
-
-
-### Year 2021 
-|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
-|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
-|25 |XGPT |NLPCC-2021 |image-text |Trans |IC, MLM, IDA, MOR |Novel IDA pre-training; Share parameters between encoder and decoder |- 
-|26 |ERNIE-ViL |AAAI-2021 |image-text |Trans |MOC, AttP, RelP, MLM, MOR, MML |Use the knowledge obtained from scene graph |[[Code](https://github.com/Muennighoff/vilio)] 
-|27 |KVL-BERT |KBS-2021 |image-text |BERT |MOC, MLM |Integrate commonsense knowledge for visual commonsense reasoning |- 
-|28 |VinVL |CVPR-2021 |image-text |Trans |MTL, 3-way CS |Verifying that visual feature matters in VLP, i.e., strong object detector brings better results |[[Code](https://github.com/pzzhang/VinVL)] 
-|29 |VL-T5 |ICML-2021 |image-text |Trans |MLM, VQA, MML, VG, GC |Unified framework for VL via generating texts |[[Code](https://github.com/j-min/VL-T5)] 
-|30 |ViLT |ICML-2021 |image-text |Trans |MLM, MML |Use linear embedding only for Fast VL transformer|[[Code](https://github.com/dandelin/vilt)] 
-|31 |ALIGN |ICML-2021 |image-text |EfficientNet, BERT |CS |Milestone for image-text pre-training using noisy data  |- 
-|32 |Kaleido-BERT |CVPR-2021 |image-text |Trans |MLM, MML, AKPM |Use saliency detector to generate multi-grained patches |[[Code](http://dpfan.net/Kaleido-BERT)] 
-|33 |MDETR |ICCV-2021 |image-text |CNN+Trans |STP, MML |An end-to-end text-modulated detection system |[[Code](https://github.com/ashkamath/mdetr)] 
-|34 |SOHO |CVPR-2021 |image-text |CNN+Trans |MLM, MOR, MML|Use a dynamic-updated visual dictionary for vision-language alignment |[[Code](https://github.com/researchmm/soho)] 
-|35 |E2E-VLP |ACL-2021 |image-text |Trans |OBD, ITG |The first end-to-end pre-trained model for V+L understanding and generation |- 
-|36 |PIM |NeurIPS-2021  |image-text |Trans |MLM, MML, MOR |Propose a inter-modality flow metric to measure and reveal vision and language fusion |- 
-|37 |CLIP-ViL |arXiv-2021 |image-text |Trans |MLM, VQA, MML |Take the CLIP visual encoder as its visual backbone |[[Code](https://github.com/clip-vil/CLIP-ViL)] 
-|38 |ALBEF |NeurIPS-2021 |image-text |Trans |CS, GR |Design a momentum model to address noisy data |[[Code](https://github.com/salesforce/ALBEF)]	 
-|39 |SimVLM |arXiv-2021 |image-text |Trans |PrefixLM |Simple VL model using single PrefixLM pre-training objective only |- 
-|40 |MURAL |arXiv-2021 |image-text |Trans |CS |Adopt multi-task contrastive learning objective (image-text, text-text) |- 
-|41 |VLMo |arXiv-2021 |image-text |Trans |MLM, MML, CS |Jointly learns visual-, text-encoder and a fusion encoder |[[Code](https://aka.ms/vlmo)] 
-|42 |METER  |CVPR-2022  |image-text  |Trans  |MLM, MOR, MOC, MML |An empirical study on VLP  |[[Code](https://github.com/zdou0830/METER)] 
-|43 |CLIP  |ICML-2021 |image-text  |Resnet, Trans |CS  |Milestone for image-text pre-training using noisy data |[[Code](https://github.com/OpenAI/CLIP)] 
-|44 |Frozen  |ICCV-2021 |video/image-text  |Trans  |MML  |Flexibly trained on both images and videos with captions jointly  |[[Code](https://github.com/m-bain/frozen-in-time)]  
-|45 |RegionLearner  |arXiv-2021 |video-text  |Trans  |MML  |Implicitly learning object region without position supervision  |[[Code](https://github.com/showlab/Region_Learner)]  
-|46 |DALL-E |ICML-2021  |image-text  |Trans  |ELB  |Achieve high quality image generation without using any of the training labels  |[[Code](https://github.com/openai/DALL-E)]  
-|47 |BriVL |arXiv-2021  |image-text  |Trans  |InfoNCE  |First large-scale Chinese multi-modal pre-training model |[[Code](https://github.com/chuhaojin/WenLan-api-document)]  
-|48 |M6 |arXiv-2021 |image-text  |Trans  |LM  |The largest pretrained model in Chinese |- 
-|49 |CogView |NeurIPS-2021  |image-text  |Trans  |NLL|The first open-source large text-to-image transformer  |[[Code](https://github.com/THUDM/CogView)]  
-|50 |VATT |NeurIPS-2021  |Video, Audio, Text  |Trans  |NCE, MIL-NCE |Modality-specific or Modality-agnostic triplet modality pre-trained model |[[Code](https://github.com/google-research/google-research/tree/master/vatt)]  
-|51 |OPT |arXiv-2021 |image, Audio, Text  |Trans  |MLM, MVM, MoLM MAM, DTR, DIR  |The first pre-trained model that connects the three modalities of text, vision, and audio  |-  
-|52 |Florence |arXiv-2021 |image-text  |CoSwin  |UniCL|Expand the representations from coarse-to-fine, static-to-dynamic, and RGB-to-MM |-  
-|53 |ROSITA |MM-2021 |image-text  |Trans  |SKM, MLM, MRM |Incorporates both cross- and intra-modal knowledge, and proposed SKM strategy  |-  
-|54 |GilBERT |IR-2021 |image-text  |BERT  |MLM, MOR  |Employ image-to-text captioning and text-to-image synthesizing in VLP |-  
-|55 |U-VisualBERT |NAACL-2021  |image-text |Trans, BERT  |GR, MML  |\emph{Unpaired image-text data for pre-training |[[Code](https://github.com/uclanlp/visualbert)]  
-|56 |M3P |CVPR-2021 |image-text  |BERT  |xMLM, MC-MLM, MC-MRM  |Multitask, Multilingual, Multimodal Pre-training |[[Code](https://github.com/microsoft/M3P)] 
-|57 |NUWA |arXiv-2021 |image-text  |Trans  |T2I, T2V, V2V  |A 3D transformer framework can handle image, text, and video, simultaneously |[[Code](https://github.com/microsoft/NUWA)]  
-|58 |GLIP |CVPR-2022 |image-text  |BERT  |CS|Unifying detection and grounding by reformulating object detection as phrase grounding |[[Code](https://github.com/microsoft/GLIP)]  
-|59 |RegionCLIP |CVPR-2022 |image-text  |Trans  |Distillation loss, CS  |Learn region-level visual representations based on CLIP  |[[Code](https://github.com/microsoft/RegionCLIP)]  
-|60 |DeCLIP |ICLR-2022 |image-text |ViT |InfoNCE, SS MVS, NNS |Learn generic visual features in a data efficient way |[[Code](https://github.com/Sense-GVT/DeCLIP)] 
-|61 |SLIP |arXiv-2021 |image-text |ViT |CS, InfoNCE|Combine the self-supervised learning and CLIP pre-training in a multi-task framework |[[Code](https://github.com/facebookresearch/SLIP)] 
-|62 |FILIP |arXiv-2021 |image-text |ViT |CS|Achieve finer-level alignment using the cross-modal late interaction scheme |- 
-|63 |SemVLP |arXiv-2021 |image-text |Trans |MLM, MOP, ITM, QA |Fuse the single- and two-stream architectures |- 
- 
- 
 
 
 ### Year 2022 
+
+* Gui L, Wang B, Huang Q, et al. **Kat: A knowledge augmented transformer for vision-and-language**[J]. arXiv preprint arXiv:2112.08614, 2021. 
+[[**Paper**](https://arxiv.org/pdf/2112.08614.pdf)]
+[[**Code**](https://github.com/guilk/KAT)] 
+
+* 
+
+
 |**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
 |64 |pyramidCLIP |arXiv-2022  |image-text |CNN+Trans |CS|Hierarchical image-text contrastive learning|- 
@@ -135,20 +60,90 @@
 
 
 
+### Year 2021 
+|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
+|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
+|25 |XGPT |NLPCC-2021 |image-text |Trans |IC, MLM, IDA, MOR |Novel IDA pre-training; Share parameters between encoder and decoder |- 
+|26 |ERNIE-ViL |AAAI-2021 |image-text |Trans |MOC, AttP, RelP, MLM, MOR, MML |Use the knowledge obtained from scene graph |[[Code](https://github.com/Muennighoff/vilio)] 
+|27 |KVL-BERT |KBS-2021 |image-text |BERT |MOC, MLM |Integrate commonsense knowledge for visual commonsense reasoning |- 
+|28 |VinVL |CVPR-2021 |image-text |Trans |MTL, 3-way CS |Verifying that visual feature matters in VLP, i.e., strong object detector brings better results |[[Code](https://github.com/pzzhang/VinVL)] 
+|29 |VL-T5 |ICML-2021 |image-text |Trans |MLM, VQA, MML, VG, GC |Unified framework for VL via generating texts |[[Code](https://github.com/j-min/VL-T5)] 
+|30 |ViLT |ICML-2021 |image-text |Trans |MLM, MML |Use linear embedding only for Fast VL transformer|[[Code](https://github.com/dandelin/vilt)] 
+|31 |ALIGN |ICML-2021 |image-text |EfficientNet, BERT |CS |Milestone for image-text pre-training using noisy data  |- 
+|32 |Kaleido-BERT |CVPR-2021 |image-text |Trans |MLM, MML, AKPM |Use saliency detector to generate multi-grained patches |[[Code](http://dpfan.net/Kaleido-BERT)] 
+|33 |MDETR |ICCV-2021 |image-text |CNN+Trans |STP, MML |An end-to-end text-modulated detection system |[[Code](https://github.com/ashkamath/mdetr)] 
+|34 |SOHO |CVPR-2021 |image-text |CNN+Trans |MLM, MOR, MML|Use a dynamic-updated visual dictionary for vision-language alignment |[[Code](https://github.com/researchmm/soho)] 
+|35 |E2E-VLP |ACL-2021 |image-text |Trans |OBD, ITG |The first end-to-end pre-trained model for V+L understanding and generation |- 
+|36 |PIM |NeurIPS-2021  |image-text |Trans |MLM, MML, MOR |Propose a inter-modality flow metric to measure and reveal vision and language fusion |- 
+|37 |CLIP-ViL |arXiv-2021 |image-text |Trans |MLM, VQA, MML |Take the CLIP visual encoder as its visual backbone |[[Code](https://github.com/clip-vil/CLIP-ViL)] 
+|38 |ALBEF |NeurIPS-2021 |image-text |Trans |CS, GR |Design a momentum model to address noisy data |[[Code](https://github.com/salesforce/ALBEF)]	 
+|39 |SimVLM |arXiv-2021 |image-text |Trans |PrefixLM |Simple VL model using single PrefixLM pre-training objective only |- 
+|40 |MURAL |arXiv-2021 |image-text |Trans |CS |Adopt multi-task contrastive learning objective (image-text, text-text) |- 
+|41 |VLMo |arXiv-2021 |image-text |Trans |MLM, MML, CS |Jointly learns visual-, text-encoder and a fusion encoder |[[Code](https://aka.ms/vlmo)] 
+|42 |METER  |CVPR-2022  |image-text  |Trans  |MLM, MOR, MOC, MML |An empirical study on VLP  |[[Code](https://github.com/zdou0830/METER)] 
+|43 |CLIP  |ICML-2021 |image-text  |Resnet, Trans |CS  |Milestone for image-text pre-training using noisy data |[[Code](https://github.com/OpenAI/CLIP)] 
+|44 |Frozen  |ICCV-2021 |video/image-text  |Trans  |MML  |Flexibly trained on both images and videos with captions jointly  |[[Code](https://github.com/m-bain/frozen-in-time)]  
+|45 |RegionLearner  |arXiv-2021 |video-text  |Trans  |MML  |Implicitly learning object region without position supervision  |[[Code](https://github.com/showlab/Region_Learner)]  
+|46 |DALL-E |ICML-2021  |image-text  |Trans  |ELB  |Achieve high quality image generation without using any of the training labels  |[[Code](https://github.com/openai/DALL-E)]  
+|47 |BriVL |arXiv-2021  |image-text  |Trans  |InfoNCE  |First large-scale Chinese multi-modal pre-training model |[[Code](https://github.com/chuhaojin/WenLan-api-document)]  
+|48 |M6 |arXiv-2021 |image-text  |Trans  |LM  |The largest pretrained model in Chinese |- 
+|49 |CogView |NeurIPS-2021  |image-text  |Trans  |NLL|The first open-source large text-to-image transformer  |[[Code](https://github.com/THUDM/CogView)]  
+|50 |VATT |NeurIPS-2021  |Video, Audio, Text  |Trans  |NCE, MIL-NCE |Modality-specific or Modality-agnostic triplet modality pre-trained model |[[Code](https://github.com/google-research/google-research/tree/master/vatt)]  
+|51 |OPT |arXiv-2021 |image, Audio, Text  |Trans  |MLM, MVM, MoLM MAM, DTR, DIR  |The first pre-trained model that connects the three modalities of text, vision, and audio  |-  
+|52 |Florence |arXiv-2021 |image-text  |CoSwin  |UniCL|Expand the representations from coarse-to-fine, static-to-dynamic, and RGB-to-MM |-  
+|53 |ROSITA |MM-2021 |image-text  |Trans  |SKM, MLM, MRM |Incorporates both cross- and intra-modal knowledge, and proposed SKM strategy  |-  
+|54 |GilBERT |IR-2021 |image-text  |BERT  |MLM, MOR  |Employ image-to-text captioning and text-to-image synthesizing in VLP |-  
+|55 |U-VisualBERT |NAACL-2021  |image-text |Trans, BERT  |GR, MML  |\emph{Unpaired image-text data for pre-training |[[Code](https://github.com/uclanlp/visualbert)]  
+|56 |M3P |CVPR-2021 |image-text  |BERT  |xMLM, MC-MLM, MC-MRM  |Multitask, Multilingual, Multimodal Pre-training |[[Code](https://github.com/microsoft/M3P)] 
+|57 |NUWA |arXiv-2021 |image-text  |Trans  |T2I, T2V, V2V  |A 3D transformer framework can handle image, text, and video, simultaneously |[[Code](https://github.com/microsoft/NUWA)]  
+|58 |GLIP |CVPR-2022 |image-text  |BERT  |CS|Unifying detection and grounding by reformulating object detection as phrase grounding |[[Code](https://github.com/microsoft/GLIP)]  
+|59 |RegionCLIP |CVPR-2022 |image-text  |Trans  |Distillation loss, CS  |Learn region-level visual representations based on CLIP  |[[Code](https://github.com/microsoft/RegionCLIP)]  
+|60 |DeCLIP |ICLR-2022 |image-text |ViT |InfoNCE, SS MVS, NNS |Learn generic visual features in a data efficient way |[[Code](https://github.com/Sense-GVT/DeCLIP)] 
+|61 |SLIP |arXiv-2021 |image-text |ViT |CS, InfoNCE|Combine the self-supervised learning and CLIP pre-training in a multi-task framework |[[Code](https://github.com/facebookresearch/SLIP)] 
+|62 |FILIP |arXiv-2021 |image-text |ViT |CS|Achieve finer-level alignment using the cross-modal late interaction scheme |- 
+|63 |SemVLP |arXiv-2021 |image-text |Trans |MLM, MOP, ITM, QA |Fuse the single- and two-stream architectures |- 
 
 
 
 
 
 
+### Year 2020 
+|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
+|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
+|08 |Unicoder-VL |AAAI-2020 |image-text |Trans |GR, MML, MOC |Single transformer encoder for VLP |[[Code](https://github.com/microsoft/Unicoder)]
+|09 |VLP |AAAI-2020 |image-text |Trans |BiDT, Seq2seq |Unified encoder-decoder network architecture |[[Code](https://github.com/LuoweiZhou/VLP)] 
+|10 |UNITER |ECCV-2020 |image-text |Trans |MRA, MML |Propose an OT-based Word-Region Alignment objective |[[Code](https://github.com/ChenRocks/UNITER)]  
+|11 |12-IN-1  |CVPR-2020  |image-text |Trans |CS, GR |Training jointly on 12 different datasets in a multi-task learning manner |[[Code](https://github.com/facebookresearch/vilbert-multi-task)] 
+|12 |VisDial-BERT |ECCV-2020 |image-text |Trans |MLM, NSP, MIR |Pre-training on image-text corpus and finetuning on visual dialog |[[Code](https://github.com/vmurahari3/visdial-bert/)]
+|13 |ImageBERT |arXiv-2020 |image-text |Trans |MOC, MLM, MML, MOR |Indicating that multi-stage pre-training works better |-  
+|14 |PREVALENT |CVPR-2020 |image-text |Trans |MLM, AP |Pre-training for vision and language navigation |[[Code](https://github.com/weituo12321/PREVALENT)] 
+|15 |InterBERT |arXiv-2020 |image-text |Trans |MSM, MOC, ITM-hn |Finding that all-attention works better than co-attention for modal interaction |[[Code](https://github.com/black4321/InterBERT)] 
+|16 |PixelBERT |arXiv-2020 |image-text |CNN, Trans |MLM, MML |First to align vision and language in pixel and text-level |- 
+|17 |OSCAR |ECCV-2020 |image-text |Trans |CS, MLM |Use object tags as anchor points to align image regions with word embeddings |[[Code](https://github.com/microsoft/Oscar)] 
+|18 |FashionBERT |RDIR-2020 |image-text |BERT |MLM, MOR, MML |Use image patches for fashion domain instead of RoIs |[[Code](https://github.com/alibaba/EasyTransfer)] 
+|19 |VILLA |NeurIPS-2020 |image-text |Trans |MLM, MOR, MML |Pre-training with adversarial learning |[[Code](https://github.com/zhegan27/VILLA)] 
+|20 |UniVL  |arXiv-2020  |video-text  |Trans  |MLM, MFM, MML, ITG  |A unified model for multimodal understanding and generation  |[[Code](https://github.com/microsoft/UniVL)]  
+|21 |HERO  |EMNLP-2020  |video-text  |Trans  |MLM, MFM, VSM, FOM |Hierarchical Transformer-based model trained with newly proposed VSM and FOM  |[[Code](https://github.com/linjieli222/HERO)] 
+|22 |MMFT-BERT  |EMNLP-2020  |image-text  |BERT  |Classification |Adopt multiModal fusion Transformer for modality fusion|[[Code](https://github.com/aurooj/MMFT-BERT)] 
+|23 |ActBERT  |CVPR-2020 |image-text  |Trans |CS, GR  |Extract actions explicitly as one of the inputs  |-  
+|24 |UNIMO  |arXiv-2020 |image-text  |Trans  |CS  |Adapt to single-, multi-modal understanding and generation tasks effectively  |[[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/UNIMO)]  
 
 
 
 
 
 
-
-
+### Year 2019 and Before 
+|**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
+|:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
+|01 |VisualBERT |arXiv-2019 |image-text |Trans, BERT |GR, MML |A simple and strong baseline for VLP |[[Code](https://github.com/uclanlp/visualbert)]
+|02 |ViLBERT |NeurIPS-2019 |image-text |Trans |CS, GR |First adopt co-attention for MM pre-training |[[Code](https://github.com/jiasenlu/vilbert_beta)] 
+|03 |LXMERT |EMNLP-2019 |image-text |Trans | QA, MOR, MOC, MML, MLM |Propose a cross-modality encoder for vision-language pre-training |[[Code](https://github.com/airsplay/lxmert)] 
+|04 |B2T2 |EMNLP-2019 |image-text |ResNet, BERT |MML, GR |Embed bounding box into text transformer in a early fusion manner |[[Code](https://github.com/google-research/language/tree/master/language/question_answering/b2t2)]  
+|05 |VL-BERT |ICLR-2019 |image-text |BERT |GR, MOC |MM PTMs and faster rcnn are jointly trained |[[Code](https://github.com/jackroos/VL-BERT)] 
+|06 |VideoBERT  |ICCV-2019 |video-text  |BERT  |MLM|A simple model for video-text feature learning |[[Code](https://github.com/ammesatyajit/VideoBERT)]  
+|07 |CBT |arXiv-2019  |video-text  |Trans  |NCE  |Self-supervised contrastive bidirectional Transformer  |-  
 
 
 
