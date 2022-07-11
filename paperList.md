@@ -8,7 +8,6 @@
 [[**Paper**](https://arxiv.org/pdf/2112.08614.pdf)]
 [[**Code**](https://github.com/guilk/KAT)] 
 
-* 
 
 
 |**NO.**     | **Model**     | **Publish**        | **Modality**        | **Architecture**   | **Objective**     |**Highlights**   |**Code**         |
