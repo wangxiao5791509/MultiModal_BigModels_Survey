@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Egocentric Video-Language Pretraining**, Kevin Qinghong Lin and Alex Jinpeng Wang and Mattia Soldan and Michael Wray and Rui Yan and Eric Zhongcong Xu and Difei Gao and Rongcheng Tu and Wenzhe Zhao and Weijie Kong and Chengfei Cai and Hongfa Wang and Dima Damen and Bernard Ghanem and Wei Liu and Mike Zheng Shou, arXiv-2022 
+[[Paper](https://arxiv.org/pdf/2206.01670.pdf)]
+[[Code](https://github.com/showlab/EgoVLP)]
+
 * **LocVTP: Video-Text Pre-training for Temporal Localization** (ECCV 2022), Meng Cao, Tianyu Yang, Junwu Weng, Can Zhang, Jue Wang and Yuexian Zou.  
 [[Paper](https://arxiv.org/pdf/2207.10362.pdf)] 
 [[Code](https://github.com/mengcaopku/LocVTP)]
