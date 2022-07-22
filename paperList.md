@@ -4,6 +4,14 @@
 
 ### Year 2022 
 
+* **DemoVLP: Revitalize Region Feature for Democratizing Video-Language Pre-training**, Guanyu Cai, Yixiao Ge, Alex Jinpeng Wang, Rui Yan, Xudong Lin, Ying Shan, Lianghua He, Xiaohu Qie, Jianping Wu, Mike Zheng Shou
+[[Paper](https://arxiv.org/abs/2203.07720)]
+[[Code](https://github.com/showlab/DemoVLP)]
+
+* Yan, Rui, et al. "**Video-Text Pre-training with Learned Regions.**" arXiv preprint arXiv:2112.01194 (2021).
+[[Paper]](https://arxiv.org/pdf/2112.01194.pdf)] 
+[[Code](https://github.com/showlab/Region_Learner)]
+
 * Wang, Alex Jinpeng, et al. "**All in one: Exploring unified video-language pre-training.**" arXiv preprint arXiv:2203.07303 (2022).
 [[Paper](https://arxiv.org/pdf/2203.07303.pdf)]
 [[Code](https://github.com/showlab/all-in-one)]
