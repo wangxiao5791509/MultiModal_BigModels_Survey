@@ -5,7 +5,7 @@
 ### Year 2022 
 
 * **LocVTP: Video-Text Pre-training for Temporal Localization** (ECCV 2022), Meng Cao, Tianyu Yang, Junwu Weng, Can Zhang, Jue Wang and Yuexian Zou.  
-[[Paper]()] 
+[[Paper](https://arxiv.org/pdf/2207.10362.pdf)] 
 [[Code](https://github.com/mengcaopku/LocVTP)]
 
 * Gui L, Wang B, Huang Q, et al. **Kat: A knowledge augmented transformer for vision-and-language**[J]. arXiv preprint arXiv:2112.08614, 2021. 
