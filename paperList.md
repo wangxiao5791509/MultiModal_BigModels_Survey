@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* Wang, Alex Jinpeng, et al. "**All in one: Exploring unified video-language pre-training.**" arXiv preprint arXiv:2203.07303 (2022).
+[[Paper](https://arxiv.org/pdf/2203.07303.pdf)]
+[[Code](https://github.com/showlab/all-in-one)]
+
 * **Egocentric Video-Language Pretraining**, Kevin Qinghong Lin and Alex Jinpeng Wang and Mattia Soldan and Michael Wray and Rui Yan and Eric Zhongcong Xu and Difei Gao and Rongcheng Tu and Wenzhe Zhao and Weijie Kong and Chengfei Cai and Hongfa Wang and Dima Damen and Bernard Ghanem and Wei Liu and Mike Zheng Shou, arXiv-2022 
 [[Paper](https://arxiv.org/pdf/2206.01670.pdf)]
 [[Code](https://github.com/showlab/EgoVLP)]
