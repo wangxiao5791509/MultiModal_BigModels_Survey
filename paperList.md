@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* Zhao, Tiancheng, et al. "**VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations.**" arXiv preprint arXiv:2207.00221 (2022). [[Paper](https://arxiv.org/pdf/2207.00221.pdf)] [[Code](https://github.com/om-ai-lab/VL-CheckList)]
+
 * **DemoVLP: Revitalize Region Feature for Democratizing Video-Language Pre-training**, Guanyu Cai, Yixiao Ge, Alex Jinpeng Wang, Rui Yan, Xudong Lin, Ying Shan, Lianghua He, Xiaohu Qie, Jianping Wu, Mike Zheng Shou
 [[Paper](https://arxiv.org/abs/2203.07720)]
 [[Code](https://github.com/showlab/DemoVLP)]
