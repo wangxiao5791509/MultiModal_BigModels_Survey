@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**, 2022 European Conference on Computer Vision (ECCV 2022), Haoxuan You*, Luowei Zhou*, Bin Xiao*, Noel Codella*, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan. 
+[[Paper](https://arxiv.org/pdf/2207.12661.pdf)]
+[[Code](https://github.com/Hxyou/MSCLIP)]
+
 * Zhao, Tiancheng, et al. "**VL-CheckList: Evaluating Pre-trained Vision-Language Models with Objects, Attributes and Relations.**" arXiv preprint arXiv:2207.00221 (2022). [[Paper](https://arxiv.org/pdf/2207.00221.pdf)] [[Code](https://github.com/om-ai-lab/VL-CheckList)]
 
 * **DemoVLP: Revitalize Region Feature for Democratizing Video-Language Pre-training**, Guanyu Cai, Yixiao Ge, Alex Jinpeng Wang, Rui Yan, Xudong Lin, Ying Shan, Lianghua He, Xiaohu Qie, Jianping Wu, Mike Zheng Shou
