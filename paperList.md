@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu, Wei Wen, Haoqian Wu, Keyu Chen, Yiran Song, Ruizhi Qiao, Bo Ren, Xiao Wang, The 2nd Workshop on Real-World Surveillance: Applications and Challenges, ECCVW-2022  [[Paper]()] [[Code]()]
+
 * **Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**, 2022 European Conference on Computer Vision (ECCV 2022), Haoxuan You*, Luowei Zhou*, Bin Xiao*, Noel Codella*, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan. 
 [[Paper](https://arxiv.org/pdf/2207.12661.pdf)]
 [[Code](https://github.com/Hxyou/MSCLIP)]
