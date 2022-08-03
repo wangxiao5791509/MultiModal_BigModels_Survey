@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* Wang, Tengfei, et al. "**Pretraining is All You Need for Image-to-Image Translation**." arXiv preprint arXiv:2205.12952 (2022). [[Paper](https://arxiv.org/pdf/2205.12952.pdf)] [[Code](https://tengfei-wang.github.io/PITI/index.html)]
+
 * Wang, Jinpeng, et al. "**Object-aware Video-language Pre-training for Retrieval.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Object-Aware_Video-Language_Pre-Training_for_Retrieval_CVPR_2022_paper.pdf)] 
 [[Code](https://github.com/FingerRec/OA-Transformer)]
