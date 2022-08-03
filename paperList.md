@@ -4,7 +4,13 @@
 
 ### Year 2022 
 
-* **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu, Wei Wen, Haoqian Wu, Keyu Chen, Yiran Song, Ruizhi Qiao, Bo Ren, Xiao Wang, The 2nd Workshop on Real-World Surveillance: Applications and Challenges, ECCVW-2022  [[Paper]()] [[Code]()]
+* Wang, Jinpeng, et al. "**Object-aware Video-language Pre-training for Retrieval.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Object-Aware_Video-Language_Pre-Training_for_Retrieval_CVPR_2022_paper.pdf)] 
+[[Code](https://github.com/FingerRec/OA-Transformer)]
+
+* **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu, Wei Wen, Haoqian Wu, Keyu Chen, Yiran Song, Ruizhi Qiao, Bo Ren, Xiao Wang, The 2nd Workshop on Real-World Surveillance: Applications and Challenges, ECCVW-2022  
+[[Paper]()] 
+[[Code](https://github.com/shuxjweb/IVT)]
 
 * **Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**, 2022 European Conference on Computer Vision (ECCV 2022), Haoxuan You*, Luowei Zhou*, Bin Xiao*, Noel Codella*, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan. 
 [[Paper](https://arxiv.org/pdf/2207.12661.pdf)]
