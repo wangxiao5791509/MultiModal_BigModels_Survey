@@ -49,10 +49,11 @@ If you find this survey useful for your research, please cite the following pape
 ```bibtex
 @article{wang2022MMPTMSurvey,
   title={Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey},
-  author={Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao},
-  journal={arXiv:xxx},
+  author={Wang, Xiao and Chen, Guangyao and Qian, Guangwu and Gao, Pengcheng and Wei, Xiao-Yong and Wang, Yaowei and Tian, Yonghong and Gao Wen},
+  url={https://github.com/wangxiao5791509/MultiModal_BigModels_Survey},
   year={2022}
 }
+
 ```
 
 If you have any questions about this survey, please email me via: xiaowang@ahu.edu.cn or wangxiaocvpr@foxmail.com 
