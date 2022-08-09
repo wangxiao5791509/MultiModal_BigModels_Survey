@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* Li, Juncheng, et al. "**Fine-Grained Semantically Aligned Vision-Language Pre-Training**." arXiv preprint arXiv:2208.02515 (2022). [[Paper](https://arxiv.org/pdf/2208.02515.pdf)]
+
 * **GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training**, Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon, arXiv:2208.04060 
 [[Paper](https://arxiv.org/pdf/2208.04060.pdf)]
 [[Code](https://github.com/jaeseokbyun/GRIT-VLP)]
