@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training**, Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon, arXiv:2208.04060 
+[[Paper](https://arxiv.org/pdf/2208.04060.pdf)]
+[[Code](https://github.com/jaeseokbyun/GRIT-VLP)]
+
 * Wang, Tengfei, et al. "**Pretraining is All You Need for Image-to-Image Translation**." arXiv preprint arXiv:2205.12952 (2022). [[Paper](https://arxiv.org/pdf/2205.12952.pdf)] [[Code](https://tengfei-wang.github.io/PITI/index.html)]
 
 * Wang, Jinpeng, et al. "**Object-aware Video-language Pre-training for Retrieval.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. 
