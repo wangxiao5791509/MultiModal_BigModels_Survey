@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* **VLMAE: Vision-Language Masked Autoencoder**, Sunan He, Taian Guo, Tao Dai, Ruizhi Qiao, Chen Wu, Xiujun Shu, Bo Ren, arXiv:2208.09374 [[Paper](https://arxiv.org/pdf/2208.09374.pdf)]
+
 * Li, Juncheng, et al. "**Fine-Grained Semantically Aligned Vision-Language Pre-Training**." arXiv preprint arXiv:2208.02515 (2022). [[Paper](https://arxiv.org/pdf/2208.02515.pdf)]
 
 * **GRIT-VLP: Grouped Mini-batch Sampling for Efficient Vision and Language Pre-training**, Jaeseok Byun, Taebaek Hwang, Jianlong Fu, and Taesup Moon, arXiv:2208.04060 
