@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **Pix4Point**: Image Pretrained Transformers for 3D Point Cloud Understanding, Guocheng Qian, Xingdi Zhang, Abdullah Hamdi, Bernard Ghanem 
+[[Paper](https://arxiv.org/pdf/2208.12259.pdf)] 
+[[Code](https://github.com/guochengqian/Pix4Point)]
+
+
 * **VLMAE: Vision-Language Masked Autoencoder**, Sunan He, Taian Guo, Tao Dai, Ruizhi Qiao, Chen Wu, Xiujun Shu, Bo Ren, arXiv:2208.09374 [[Paper](https://arxiv.org/pdf/2208.09374.pdf)]
 
 * Li, Juncheng, et al. "**Fine-Grained Semantically Aligned Vision-Language Pre-Training**." arXiv preprint arXiv:2208.02515 (2022). [[Paper](https://arxiv.org/pdf/2208.02515.pdf)]
