@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks**, Wang, Wenhui and Bao, Hangbo and Dong, Li and Bjorck, Johan and Peng, Zhiliang and Liu, Qiang and Aggarwal, Kriti and Mohammed, Owais Khan and Singhal, Saksham and Som, Subhojit and others, arXiv:2208.10442, 2022. 
+[[Paper](https://arxiv.org/pdf/2208.10442.pdf)] 
+[[Code](https://aka.ms/beit-3)]
+
 * **Pix4Point**: Image Pretrained Transformers for 3D Point Cloud Understanding, Guocheng Qian, Xingdi Zhang, Abdullah Hamdi, Bernard Ghanem 
 [[Paper](https://arxiv.org/pdf/2208.12259.pdf)] 
 [[Code](https://github.com/guochengqian/Pix4Point)]
