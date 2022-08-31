@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* **COYO-700M**: Image-Text Pair Dataset [[Paper]()] [[Code](https://github.com/kakaobrain/coyo-dataset)] 
+
 * **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks**, Wang, Wenhui and Bao, Hangbo and Dong, Li and Bjorck, Johan and Peng, Zhiliang and Liu, Qiang and Aggarwal, Kriti and Mohammed, Owais Khan and Singhal, Saksham and Som, Subhojit and others, arXiv:2208.10442, 2022. 
 [[Paper](https://arxiv.org/pdf/2208.10442.pdf)] 
 [[Code](https://aka.ms/beit-3)]
@@ -28,7 +30,7 @@
 [[Code](https://github.com/FingerRec/OA-Transformer)]
 
 * **See Finer, See More: Implicit Modality Alignment for Text-based Person Retrieval**, Xiujun Shu, Wei Wen, Haoqian Wu, Keyu Chen, Yiran Song, Ruizhi Qiao, Bo Ren, Xiao Wang, The 2nd Workshop on Real-World Surveillance: Applications and Challenges, ECCVW-2022  
-[[Paper]()] 
+[[Paper](https://arxiv.org/abs/2208.08608)] 
 [[Code](https://github.com/shuxjweb/IVT)]
 
 * **Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training**, 2022 European Conference on Computer Vision (ECCV 2022), Haoxuan You*, Luowei Zhou*, Bin Xiao*, Noel Codella*, Yu Cheng, Ruochen Xu, Shih-Fu Chang, Lu Yuan. 
