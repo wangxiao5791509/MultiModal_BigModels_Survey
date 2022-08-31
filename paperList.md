@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**, Mustafa Shukor, Guillaume Couairon, Matthieu Cord, 
+[[Paper](https://arxiv.org/pdf/2208.13628.pdf)] [[Code](https://github.com/mshukor/ViCHA)]
+
 * **COYO-700M**: Image-Text Pair Dataset [[Paper]()] [[Code](https://github.com/kakaobrain/coyo-dataset)] 
 
 * **Image as a Foreign Language: BEIT Pretraining for All Vision and Vision-Language Tasks**, Wang, Wenhui and Bao, Hangbo and Dong, Li and Bjorck, Johan and Peng, Zhiliang and Liu, Qiang and Aggarwal, Kriti and Mohammed, Owais Khan and Singhal, Saksham and Som, Subhojit and others, arXiv:2208.10442, 2022. 
