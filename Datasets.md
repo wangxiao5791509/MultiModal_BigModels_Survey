@@ -1,6 +1,10 @@
 
 * **An overview of multi-modal datasets proposed for large-scale pre-training.** 
 
+* COYO-700M: Image-Text Pair Dataset [[Code](https://github.com/kakaobrain/coyo-dataset)] 
+
+
+
 |**NO.**     | **Dataset**   | **Year**           | **Scale**           | **Modality**       | **Language**      |**Available**  |**URL**            |
 |:-----------|:-----------   |:----------------   |:----------------    |:----------------   |:----------------  |:----------------|:----------------|
 |01  | SBU Captions    |2011     |1M  |image-text |English     |Yes     	|[[Link](http://www.cs.virginia.edu/~vicente/sbucaptions/)]     	|  
