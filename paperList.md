@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection, Hangjie Yuan et al. [[Paper](https://arxiv.org/pdf/2209.01814.pdf)]
+
 * **An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling**, Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu, [[Paper](https://arxiv.org/pdf/2209.01540.pdf)]
 
 * **Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**, Mustafa Shukor, Guillaume Couairon, Matthieu Cord, 
