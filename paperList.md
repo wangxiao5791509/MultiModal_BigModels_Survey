@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* **An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling**, Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu, [[Paper](https://arxiv.org/pdf/2209.01540.pdf)]
+
 * **Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment**, Mustafa Shukor, Guillaume Couairon, Matthieu Cord, 
 [[Paper](https://arxiv.org/pdf/2208.13628.pdf)] [[Code](https://github.com/mshukor/ViCHA)]
 
