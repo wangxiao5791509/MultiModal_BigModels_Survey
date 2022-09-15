@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment**, arxiv 2209.06430, Hongwei Xue, Yuchong Sun, Bei Liu, Jianlong Fu, Ruihua Song, Houqiang Li, Jiebo Luo
+[[Paper](https://arxiv.org/pdf/2209.06430.pdf)]
+[[Code](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
+
 * RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection, Hangjie Yuan et al. [[Paper](https://arxiv.org/pdf/2209.01814.pdf)]
 
 * **An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling**, Tsu-Jui Fu, Linjie Li, Zhe Gan, Kevin Lin, William Yang Wang, Lijuan Wang, Zicheng Liu, [[Paper](https://arxiv.org/pdf/2209.01540.pdf)]
