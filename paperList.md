@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **EXPLORING VISUAL INTERPRETABILITY FOR CONTRASTIVE LANGUAGE-IMAGE PRE-TRAINING**, Yi Li, Hualiang Wang, Yiqun Duan, Hang Xu, Xiaomeng Li, 
+[[Paper](https://arxiv.org/pdf/2209.07046.pdf)] 
+[[Code](https://github.com/xmed-lab/ICLIP)]
+
+
 * **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen∗ Xiao Wang Soravit Changpinyo AJ Piergiovanni Piotr Padlewski, Daniel Salz Sebastian Goodman Adam Grycner Basil Mustafa Lucas Beyer, Alexander Kolesnikov Joan Puigcerver Nan Ding Keran Rong Hassan Akbari, Gaurav Mishra Linting Xue Ashish Thapliyal James Bradbury Weicheng Kuo, Mojtaba Seyedhosseini Chao Jia Burcu Karagol Ayan Carlos Riquelme, Andreas Steiner Anelia Angelova Xiaohua Zhai Neil Houlsby Radu Soricut 
 [[Paper](https://arxiv.org/pdf/2209.06794.pdf)] 
 
