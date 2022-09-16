@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks**, Junke Wang, Dongdong Chen, Zuxuan Wu, Chong Luo, Luowei Zhou, Yucheng Zhao, Yujia Xie, Ce Liu, Yu-Gang Jiang, Lu Yuan 
+[[Paper](https://arxiv.org/pdf/2209.07526.pdf)] 
+
+
 * **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training**, Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan,and Tsung-Hui Chang, MICCAI-2022.
 [[Paper](https://arxiv.org/pdf/2209.07098.pdf)]
 [[Code](https://github.com/zhjohnchan/M3AE)]
