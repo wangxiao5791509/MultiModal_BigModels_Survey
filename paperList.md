@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training**, Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan,and Tsung-Hui Chang, 
+[[Paper](https://arxiv.org/pdf/2209.07098.pdf)]
+[[Code](https://github.com/zhjohnchan/M3AE)]
+
+
 * **EXPLORING VISUAL INTERPRETABILITY FOR CONTRASTIVE LANGUAGE-IMAGE PRE-TRAINING**, Yi Li, Hualiang Wang, Yiqun Duan, Hang Xu, Xiaomeng Li, 
 [[Paper](https://arxiv.org/pdf/2209.07046.pdf)] 
 [[Code](https://github.com/xmed-lab/ICLIP)]
