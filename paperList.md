@@ -4,7 +4,7 @@
 
 ### Year 2022 
 
-* **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training**, Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan,and Tsung-Hui Chang, 
+* **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training**, Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan,and Tsung-Hui Chang, MICCAI-2022.
 [[Paper](https://arxiv.org/pdf/2209.07098.pdf)]
 [[Code](https://github.com/zhjohnchan/M3AE)]
 
