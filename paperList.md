@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY**, Ziyuan Qin, Huahui Yi, Qicheng Lao, Kang Li
+[[Paper](https://arxiv.org/pdf/2209.15517.pdf)] 
+
+
 * **ERNIE-VIL 2.0: MULTI-VIEW CONTRASTIVE LEARNING FOR IMAGE-TEXT PRE-TRAINING**, Bin Shan Weichong Yin Yu Sun Hao Tian Hua Wu Haifeng Wang, 
 [[Paper](https://arxiv.org/pdf/2209.15270.pdf)]
 [[Code](https://github.com/PaddlePaddle/ERNIE/)]
