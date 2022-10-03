@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **F-VLM: OPEN-VOCABULARY OBJECT DETECTION UPON FROZEN VISION AND LANGUAGE MODELS**, Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova 
+[[Paper](https://arxiv.org/pdf/2209.15639.pdf)] 
+[[Code]()]
+
+
 * **MEDICAL IMAGE UNDERSTANDING WITH PRETRAINED VISION LANGUAGE MODELS: A COMPREHENSIVE STUDY**, Ziyuan Qin, Huahui Yi, Qicheng Lao, Kang Li
 [[Paper](https://arxiv.org/pdf/2209.15517.pdf)] 
 
