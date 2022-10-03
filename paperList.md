@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **ERNIE-VIL 2.0: MULTI-VIEW CONTRASTIVE LEARNING FOR IMAGE-TEXT PRE-TRAINING**, Bin Shan Weichong Yin Yu Sun Hao Tian Hua Wu Haifeng Wang, 
+[[Paper](https://arxiv.org/pdf/2209.15270.pdf)]
+[[Code](https://github.com/PaddlePaddle/ERNIE/)]
+
+
 * **OmniVL: One Foundation Model for Image-Language and Video-Language Tasks**, Junke Wang, Dongdong Chen, Zuxuan Wu, Chong Luo, Luowei Zhou, Yucheng Zhao, Yujia Xie, Ce Liu, Yu-Gang Jiang, Lu Yuan 
 [[Paper](https://arxiv.org/pdf/2209.07526.pdf)] 
 
