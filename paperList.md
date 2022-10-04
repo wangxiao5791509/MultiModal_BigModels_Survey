@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**, Tianyu Huang, Bowen Dong, Yunhan Yang, Xiaoshui Huang, Rynson W.H. Lau, Wanli Ouyang, Wangmeng Zuo 
+[[Paper](https://arxiv.org/abs/2210.01055)] 
+[[Code](https://github.com/tyhuang0428/CLIP2Point)]
+
 * **F-VLM: OPEN-VOCABULARY OBJECT DETECTION UPON FROZEN VISION AND LANGUAGE MODELS**, Weicheng Kuo, Yin Cui, Xiuye Gu, AJ Piergiovanni, Anelia Angelova 
 [[Paper](https://arxiv.org/pdf/2209.15639.pdf)] 
 [[Code]()]
