@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**, Yatai Ji Junjie Wang Yuan Gong Lin Zhang Yanru Zhu Hongfa Wang Jiaxing Zhang Tetsuya Sakai Yujiu Yang, [[Paper](https://arxiv.org/pdf/2210.05335.pdf)] 
+[[Code](https://github.com/IIGROUP/MAP)]
+
 * **CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training**, Tianyu Huang, Bowen Dong, Yunhan Yang, Xiaoshui Huang, Rynson W.H. Lau, Wanli Ouyang, Wangmeng Zuo 
 [[Paper](https://arxiv.org/abs/2210.01055)] 
 [[Code](https://github.com/tyhuang0428/CLIP2Point)]
