@@ -4,6 +4,8 @@
 
 ### Year 2022 
 
+* **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training**, Wenliang Dai, Zihan Liu, Ziwei Ji, Dan Su, Pascale Fung [[Paper](https://arxiv.org/pdf/2210.07688.pdf)]
+
 * **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**, Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, Huan Yang, Jianlong Fu, [[Paper](https://arxiv.org/pdf/2210.06031.pdf)] [[Code](https://github.com/microsoft/XPretrain)]
 
 * **MAP: Modality-Agnostic Uncertainty-Aware Vision-Language Pre-training Model**, Yatai Ji Junjie Wang Yuan Gong Lin Zhang Yanru Zhu Hongfa Wang Jiaxing Zhang Tetsuya Sakai Yujiu Yang, [[Paper](https://arxiv.org/pdf/2210.05335.pdf)] 
