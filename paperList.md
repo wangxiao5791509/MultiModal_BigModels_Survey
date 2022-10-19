@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **Non-Contrastive Learning Meets Language-Image Pre-Training**, Jinghao Zhou Li Dong Zhe Gan Lijuan Wang Furu Wei 
+[[Paper](https://arxiv.org/pdf/2210.09304.pdf)] 
+
 * **Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training**, Wenliang Dai, Zihan Liu, Ziwei Ji, Dan Su, Pascale Fung [[Paper](https://arxiv.org/pdf/2210.07688.pdf)]
 
 * **Long-Form Video-Language Pre-Training with Multimodal Temporal Contrastive Learning**, Yuchong Sun, Hongwei Xue, Ruihua Song, Bei Liu, Huan Yang, Jianlong Fu, [[Paper](https://arxiv.org/pdf/2210.06031.pdf)] [[Code](https://github.com/microsoft/XPretrain)]
