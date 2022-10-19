@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**, Zhe Gan, Linjie Li, Chunyuan Li, Lijuan Wang, Zicheng Liu, Jianfeng Gao 
+[[Paper](https://arxiv.org/pdf/2210.09263.pdf)] 
+[[Recent Advances in Vision-and-Language Pre-training In conjunction with CVPR 2022](https://vlp-tutorial.github.io/)] 
+
 * **Non-Contrastive Learning Meets Language-Image Pre-Training**, Jinghao Zhou Li Dong Zhe Gan Lijuan Wang Furu Wei 
 [[Paper](https://arxiv.org/pdf/2210.09304.pdf)] 
 
