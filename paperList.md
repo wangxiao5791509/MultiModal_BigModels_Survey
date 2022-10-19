@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **Contrastive Language-Image Pre-Training with Knowledge Graphs**, 
+[[Paper](https://arxiv.org/pdf/2210.08901.pdf)]
+
 * **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**, Zhe Gan, Linjie Li, Chunyuan Li, Lijuan Wang, Zicheng Liu, Jianfeng Gao 
 [[Paper](https://arxiv.org/pdf/2210.09263.pdf)] 
 [[Recent Advances in Vision-and-Language Pre-training In conjunction with CVPR 2022](https://vlp-tutorial.github.io/)] 
