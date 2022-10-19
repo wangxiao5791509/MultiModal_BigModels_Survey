@@ -1,5 +1,9 @@
 
 * **An overview of multi-modal datasets proposed for large-scale pre-training.** 
+[[Paper](https://arxiv.org/pdf/2210.08402.pdf)]
+[[Project](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)]
+
+* **LAION-5B: An open large-scale dataset for training next generation image-text models**, 
 
 * COYO-700M: Image-Text Pair Dataset [[Code](https://github.com/kakaobrain/coyo-dataset)] 
 
