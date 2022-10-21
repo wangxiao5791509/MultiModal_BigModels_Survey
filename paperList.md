@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **MedCLIP: Contrastive Learning from Unpaired Medical Images and Text**, Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun 
+[[Paper](https://arxiv.org/pdf/2210.10163.pdf)]
+[[Code](https://github.com/RyanWangZf/MedCLIP)]
+ 
 * **Contrastive Language-Image Pre-Training with Knowledge Graphs**, 
 [[Paper](https://arxiv.org/pdf/2210.08901.pdf)]
 
