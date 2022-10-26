@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision**, 
+[[Paper](https://arxiv.org/pdf/2210.13591.pdf)] 
+
 * **MedCLIP: Contrastive Learning from Unpaired Medical Images and Text**, Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun 
 [[Paper](https://arxiv.org/pdf/2210.10163.pdf)]
 [[Code](https://github.com/RyanWangZf/MedCLIP)]
