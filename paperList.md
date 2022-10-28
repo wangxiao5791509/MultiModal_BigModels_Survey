@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning**, Suvir Mirchandani, et al. 
+[[Paper](https://arxiv.org/pdf/2210.15028.pdf)]
+
 * **ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**, Zhida Feng et al. 
 [[Paper](https://arxiv.org/pdf/2210.15257.pdf)]
 
