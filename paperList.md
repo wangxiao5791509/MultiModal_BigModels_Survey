@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **INSTRUCTION-FOLLOWING AGENTS WITH JOINTLY PRE-TRAINED VISION-LANGUAGE MODELS**, Hao Liu et al. 
+[[Paper](https://arxiv.org/pdf/2210.13431.pdf)] 
+[[Code](https://github.com/lhao499/instructrl)]
+
 * **FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning**, Suvir Mirchandani, et al. 
 [[Paper](https://arxiv.org/pdf/2210.15028.pdf)]
 
