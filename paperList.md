@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with Knowledge-Enhanced Mixture-of-Denoising-Experts**, Zhida Feng et al. 
+[[Paper](https://arxiv.org/pdf/2210.15257.pdf)]
+
 * **Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision**, 
 [[Paper](https://arxiv.org/pdf/2210.13591.pdf)] 
 
