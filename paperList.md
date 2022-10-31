@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training**, ECCV 2022 
+[[Paper](https://arxiv.org/abs/2208.04060)]
+[[Code](GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training)]
+
 * **INSTRUCTION-FOLLOWING AGENTS WITH JOINTLY PRE-TRAINED VISION-LANGUAGE MODELS**, Hao Liu et al. 
 [[Paper](https://arxiv.org/pdf/2210.13431.pdf)] 
 [[Code](https://github.com/lhao499/instructrl)]
