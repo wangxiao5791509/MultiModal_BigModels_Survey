@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et al. 
+[[Paper](https://arxiv.org/pdf/2211.01335.pdf)] 
+[[Code](https://github.com/OFA-Sys/Chinese-CLIP)]
+
 * **Generative Negative Text Replay for Continual Vision-Language Pretraining**, [[Paper](https://arxiv.org/pdf/2210.17322.pdf)]
 
 * **GRIT-VLP: GRouped mIni-baTch sampling for Efficient Vision-Language Pre-training**, ECCV 2022, 
