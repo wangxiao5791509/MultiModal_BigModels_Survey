@@ -4,6 +4,9 @@
 
 ### Year 2022 
 
+* **Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization**, Junru Wu et al. 
+[[Paper](https://arxiv.org/pdf/2211.02077.pdf)] 
+
 * **Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese**, An Yang et al. 
 [[Paper](https://arxiv.org/pdf/2211.01335.pdf)] 
 [[Code](https://github.com/OFA-Sys/Chinese-CLIP)]
