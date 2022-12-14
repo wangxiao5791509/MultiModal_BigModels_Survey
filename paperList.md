@@ -4,7 +4,7 @@
 
 ### Year 2022 
 
-* CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet, Xiaoyi Dong*, Jianmin Bao, Ting Zhang, Dongdong Chen, Shuyang Gu, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
+* **CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet**, Xiaoyi Dong*, Jianmin Bao, Ting Zhang, Dongdong Chen, Shuyang Gu, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
 [[Paper](https://arxiv.org/pdf/2212.06138.pdf)] 
 [[Code](https://github.com/LightDXY/FT-CLIP)]
 
