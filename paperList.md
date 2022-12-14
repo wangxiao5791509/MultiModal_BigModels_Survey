@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet, Xiaoyi Dong*, Jianmin Bao, Ting Zhang, Dongdong Chen, Shuyang Gu, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu 
+[[Paper](https://arxiv.org/pdf/2212.06138.pdf)] 
+[[Code](https://github.com/LightDXY/FT-CLIP)]
+
 * **REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory**, Ziniu Hu1*, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi 
 [[Paper](https://arxiv.org/pdf/2212.05221.pdf)] 
 
