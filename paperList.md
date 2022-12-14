@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory**, Ziniu Hu1*, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross, Alireza Fathi 
+[[Paper](https://arxiv.org/pdf/2212.05221.pdf)] 
+
+
 * **Scaling Multimodal Pre-Training via Cross-Modality Gradient Harmonization**, Junru Wu et al. 
 [[Paper](https://arxiv.org/pdf/2211.02077.pdf)] 
 
