@@ -4,7 +4,11 @@
 
 ### Year 2022 
 
-* SIMLA: Single-Stream Multi-Level Alignment for Vision-Language Pretraining, ECCV 2022 (NEC Labs), Zaid Khan, Vijay Kumar, Xiang Yu, Samuel Schulter, Manmohan Chandraker, and Yun Fu
+* **VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning**, Qiushi Zhu, Long Zhou, Ziqiang Zhang, Shujie Liu, Binxing Jiao, Jie Zhang, Lirong Dai, Daxin Jiang, Jinyu Li, Furu Wei
+[[Paper](https://arxiv.org/pdf/2211.11275.pdf)]
+[[Code](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
+
+* **SIMLA: Single-Stream Multi-Level Alignment for Vision-Language Pretraining**, ECCV 2022 (NEC Labs), Zaid Khan, Vijay Kumar, Xiang Yu, Samuel Schulter, Manmohan Chandraker, and Yun Fu
 [[Paper](https://arxiv.org/pdf/2203.14395.pdf)]
 [[Code](https://github.com/codezakh/SIMLA)]
 [[Project](http://zaidkhan.me/SIMLA/)]
