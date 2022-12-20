@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* SIMLA: Single-Stream Multi-Level Alignment for Vision-Language Pretraining, ECCV 2022 (NEC Labs), Zaid Khan, Vijay Kumar, Xiang Yu, Samuel Schulter, Manmohan Chandraker, and Yun Fu
+[[Paper](https://arxiv.org/pdf/2203.14395.pdf)]
+[[Code](https://github.com/codezakh/SIMLA)]
+[[Project](http://zaidkhan.me/SIMLA/)]
+
 * **VINDLU : A Recipe for Effective Video-and-Language Pretraining**, Feng Cheng, Xizi Wang, Jie Lei, David Crandall, Mohit Bansal, Gedas Bertasius 
 [[Paper](https://arxiv.org/pdf/2212.05051.pdf)] 
 [[Code](https://github.com/klauscc/VindLU)]
