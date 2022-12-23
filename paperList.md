@@ -4,6 +4,11 @@
 
 ### Year 2022 
 
+* **Million-scale Object Detection with Large Vision Model**, Feng Lin, Wenze Hu, Yaowei Wang, Yonghong Tian, Guangming Lu, Fanglin, Chen, Yong Xu and Xiaoyu Wang, 
+[[Paper](https://arxiv.org/pdf/2212.09408.pdf)]
+[[Code](https://github.com/linfeng93/Large-UniDet)]
+
+
 * **VATLM: Visual-Audio-Text Pre-Training with Unified Masked Prediction for Speech Representation Learning**, Qiushi Zhu, Long Zhou, Ziqiang Zhang, Shujie Liu, Binxing Jiao, Jie Zhang, Lirong Dai, Daxin Jiang, Jinyu Li, Furu Wei
 [[Paper](https://arxiv.org/pdf/2211.11275.pdf)]
 [[Code](https://github.com/microsoft/SpeechT5/tree/main/VATLM)]
