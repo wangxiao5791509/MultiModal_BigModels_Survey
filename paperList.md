@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training**, Qinghao Ye Guohai Xu Ming Yan∗ Haiyang Xu Qi Qian Ji Zhang Fei Huang, 
+[[Paper](https://arxiv.org/pdf/2212.14546.pdf)] 
+[[Model](https://www.modelscope.cn/home)]
+
 * **Million-scale Object Detection with Large Vision Model**, Feng Lin, Wenze Hu, Yaowei Wang, Yonghong Tian, Guangming Lu, Fanglin, Chen, Yong Xu and Xiaoyu Wang, 
 [[Paper](https://arxiv.org/pdf/2212.09408.pdf)]
 [[Code](https://github.com/linfeng93/Large-UniDet)]
