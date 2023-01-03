@@ -1,4 +1,7 @@
 
+* **A Unified Visual Information Preservation Framework for Self-supervised Pre-training in Medical Image Analysis**, Hong-Yu Zhou, Student Member, IEEE, Chixiang Lu, Chaoqi Chen, Sibei Yang, and Yizhou Yu, Fellow, IEEE 
+[[Paper](https://arxiv.org/pdf/2301.00772.pdf)] 
+[[Code](https://github.com/RL4M/PCRLv2)]
 
 * **Ponder: Point Cloud Pre-training via Neural Rendering**, Di Huang, Sida Peng, Tong He, Xiaowei Zhou, Wanli Ouyang, 
 [[Paper](https://arxiv.org/pdf/2301.00157.pdf)]
