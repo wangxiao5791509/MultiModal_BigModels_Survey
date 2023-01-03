@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**, Wenhao Wu1,2 Xiaohan Wang3 Haipeng Luo4 Jingdong Wang1 Yi Yang3 Wanli Ouyang 
+[[Paper](https://arxiv.org/pdf/2301.00182.pdf)]
+
+
 * **HiTeA: Hierarchical Temporal-Aware Video-Language Pre-training**, Qinghao Ye Guohai Xu Ming Yan∗ Haiyang Xu Qi Qian Ji Zhang Fei Huang, 
 [[Paper](https://arxiv.org/pdf/2212.14546.pdf)] 
 [[Model](https://www.modelscope.cn/home)]
