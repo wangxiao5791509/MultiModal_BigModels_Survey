@@ -1,5 +1,9 @@
 
 
+* **Ponder: Point Cloud Pre-training via Neural Rendering**, Di Huang, Sida Peng, Tong He, Xiaowei Zhou, Wanli Ouyang, 
+[[Paper](https://arxiv.org/pdf/2301.00157.pdf)]
+[[Code](https://dihuangdh.github.io/ponder/)]
+
 * **Masked Event Modeling: Self-Supervised Pretraining for Event Cameras**, Simon Klenk, David Bonello, Lukas Koestler, and Daniel Cremers 
 [[Paper](https://arxiv.org/pdf/2212.10368.pdf)]
 
