@@ -4,6 +4,10 @@
 
 ### Year 2022 
 
+* **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu1,2, Xiaoman Zhang1,2, Ya Zhang1,2, Yanfeng Wang1,2, Weidi Xie 
+[[Paper](https://arxiv.org/pdf/2301.02228.pdf)] 
+[[Code](https://chaoyi-wu.github.io/MedKLIP/)]
+
 * **Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**, Wenhao Wu1,2 Xiaohan Wang3 Haipeng Luo4 Jingdong Wang1 Yi Yang3 Wanli Ouyang 
 [[Paper](https://arxiv.org/pdf/2301.00182.pdf)]
 
