@@ -9,6 +9,10 @@
 
 
 ### Year 2022 
+  
+* **Position-guided Text Prompt for Vision-Language Pre-training**, Alex Jinpeng Wang, Pan Zhou, Mike Zheng Shou, Shuicheng Yan 
+[[Paper](https://arxiv.org/abs/2212.09737)] 
+[[Code](https://github.com/sail-sg/ptp)]
 
 * **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu1,2, Xiaoman Zhang1,2, Ya Zhang1,2, Yanfeng Wang1,2, Weidi Xie 
 [[Paper](https://arxiv.org/pdf/2301.02228.pdf)] 
