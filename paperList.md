@@ -9,6 +9,11 @@
 
 
 ### Year 2022 
+
+* **FLAVA: A Foundational Language And Vision Alignment Model**, Amanpreet Singh* Ronghang Hu* Vedanuj Goswami* Guillaume Couairon Wojciech Galuba Marcus Rohrbach Douwe Kiela, CVPR_2022 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf)]
+[[Project](https://flava-model.github.io/)] 
+[[Code](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)]
   
 * **Position-guided Text Prompt for Vision-Language Pre-training**, Alex Jinpeng Wang, Pan Zhou, Mike Zheng Shou, Shuicheng Yan 
 [[Paper](https://arxiv.org/abs/2212.09737)] 
