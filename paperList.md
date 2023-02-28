@@ -2,6 +2,12 @@
 
 
 
+### Year 2023 
+* **Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images**, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie, 
+[[arXiv](https://arxiv.org/pdf/2302.14042.pdf)]
+
+
+
 ### Year 2022 
 
 * **MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training**, Chaoyi Wu1,2, Xiaoman Zhang1,2, Ya Zhang1,2, Yanfeng Wang1,2, Weidi Xie 
