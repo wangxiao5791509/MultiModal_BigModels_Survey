@@ -3,6 +3,11 @@
 
 
 ### Year 2023 
+
+* **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**, CVPR 2023, Yang, Antoine and Nagrani, Arsha and Seo, Paul Hongsuck and Miech, Antoine and Pont-Tuset, Jordi and Laptev, Ivan and Sivic, Josef and Schmid, Cordelia, 
+[[Paper](https://arxiv.org/pdf/2302.14115.pdf)]
+[[Project](https://antoyang.github.io/vid2seq.html)]
+
 * **Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images**, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie, 
 [[arXiv](https://arxiv.org/pdf/2302.14042.pdf)]
 
