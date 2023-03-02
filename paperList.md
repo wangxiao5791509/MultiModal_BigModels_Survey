@@ -4,6 +4,10 @@
 
 ### Year 2023 
 
+* **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDICTION FOR DOCUMENT IMAGE PRE-TRAINING**, Yuechen Yu, Yulin Li, Chengquan Zhang, Xiaoqiang Zhang, Zengyuan Guo,Xiameng Qin, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
+[[Paper](https://arxiv.org/pdf/2303.00289.pdf)] 
+[[Code](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT)]
+
 * **Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**, Dezhao Luo, Jiabo Huang, Shaogang Gong, Hailin Jin, and Yang Liu [[Paper](https://arxiv.org/pdf/2303.00040.pdf)] 
 
 * **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**, Zheng Yuan, Qiao Jin12, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang [[Paper](https://arxiv.org/pdf/2303.00534.pdf)]
