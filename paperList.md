@@ -4,6 +4,9 @@
 
 ### Year 2023 
 
+* **Improving Medical Speech-to-Text Accuracy with Vision-Language Pre-training Model**, Jaeyoung Huha, Sangjoon Parka, Jeong Eun Leeb, Jong Chul Ye 
+[[Paper](https://arxiv.org/pdf/2303.00091.pdf)]
+
 * **Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning**, CVPR 2023, Yang, Antoine and Nagrani, Arsha and Seo, Paul Hongsuck and Miech, Antoine and Pont-Tuset, Jordi and Laptev, Ivan and Sivic, Josef and Schmid, Cordelia, 
 [[Paper](https://arxiv.org/pdf/2302.14115.pdf)]
 [[Project](https://antoyang.github.io/vid2seq.html)]
