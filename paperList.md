@@ -4,6 +4,8 @@
 
 ### Year 2023 
 
+* **Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training**, Dezhao Luo, Jiabo Huang, Shaogang Gong, Hailin Jin, and Yang Liu [[Paper](https://arxiv.org/pdf/2303.00040.pdf)] 
+
 * **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**, Zheng Yuan, Qiao Jin12, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang [[Paper](https://arxiv.org/pdf/2303.00534.pdf)]
 
 * "**Language Is Not All You Need: Aligning Perception with Language Models.**" arXiv preprint arXiv:2302.14045 (2023). Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv et al. 
