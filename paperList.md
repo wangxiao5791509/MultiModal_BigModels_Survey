@@ -4,6 +4,10 @@
 
 ### Year 2023 
 
+* **FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**, Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang
+[[Paper](https://arxiv.org/pdf/2303.02483.pdf)] 
+[[Code](https://github.com/BrandonHanx/FAME-ViL)]
+
 * **Prismer: A Vision-Language Model with An Ensemble of Experts**, Shikun Liu, Linxi Fan, Edward Johns, Zhiding Yu, Chaowei Xiao, Anima Anandkumar
 [[Paper](https://arxiv.org/pdf/2303.02506.pdf)] 
 [[Code](https://github.com/NVlabs/prismer)]
