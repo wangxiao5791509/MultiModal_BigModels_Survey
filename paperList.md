@@ -4,6 +4,10 @@
 
 ### Year 2023 
 
+* HICLIP: CONTRASTIVE LANGUAGE-IMAGE PRETRAINING WITH HIERARCHY-AWARE ATTENTION, Shijie Geng, Jianbo Yuan, Yu Tian, Yuxiao Chen, Yongfeng Zhang, ICLR 2023 
+[[Paper](https://arxiv.org/pdf/2303.02995.pdf)] 
+[[Code](https://github.com/jeykigung/HiCLIP)]
+
 * **FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks**, Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang
 [[Paper](https://arxiv.org/pdf/2303.02483.pdf)] 
 [[Code](https://github.com/BrandonHanx/FAME-ViL)]
