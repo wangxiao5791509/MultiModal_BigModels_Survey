@@ -4,6 +4,10 @@
 
 ### Year 2023 
 
+* Prismer: A Vision-Language Model with An Ensemble of Experts, Shikun Liu, Linxi Fan, Edward Johns, Zhiding Yu, Chaowei Xiao, Anima Anandkumar
+[[Paper](https://arxiv.org/pdf/2303.02506.pdf)] 
+[[Code](https://github.com/NVlabs/prismer)]
+
 * **STRUCTEXTV2: MASKED VISUAL-TEXTUAL PREDICTION FOR DOCUMENT IMAGE PRE-TRAINING**, Yuechen Yu, Yulin Li, Chengquan Zhang, Xiaoqiang Zhang, Zengyuan Guo,Xiameng Qin, Kun Yao, Junyu Han, Errui Ding, Jingdong Wang
 [[Paper](https://arxiv.org/pdf/2303.00289.pdf)] 
 [[Code](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT)]
