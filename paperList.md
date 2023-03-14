@@ -4,7 +4,9 @@
 
 ### Year 2023 
 
-* HICLIP: CONTRASTIVE LANGUAGE-IMAGE PRETRAINING WITH HIERARCHY-AWARE ATTENTION, Shijie Geng, Jianbo Yuan, Yu Tian, Yuxiao Chen, Yongfeng Zhang, ICLR 2023 
+* **PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents**, Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, and Weidi Xie, [[Paper](https://arxiv.org/pdf/2303.07240.pdf)]
+
+* **HICLIP: CONTRASTIVE LANGUAGE-IMAGE PRETRAINING WITH HIERARCHY-AWARE ATTENTION**, Shijie Geng, Jianbo Yuan, Yu Tian, Yuxiao Chen, Yongfeng Zhang, ICLR 2023 
 [[Paper](https://arxiv.org/pdf/2303.02995.pdf)] 
 [[Code](https://github.com/jeykigung/HiCLIP)]
 
