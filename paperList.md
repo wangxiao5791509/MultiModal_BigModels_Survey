@@ -4,6 +4,9 @@
 
 ### Year 2023 
 
+* **CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data**, Yihan Zeng, Chenhan Jiang, Jiageng Mao, Jianhua Han, Chaoqiang Ye, Qingqiu Huang, Dit-Yan Yeung, Zhen Yang, Xiaodan Liang, Hang Xu 
+[[Paper](https://arxiv.org/pdf/2303.12417.pdf)]
+
 * **PMC-CLIP: Contrastive Language-Image Pre-training using Biomedical Documents**, Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, and Weidi Xie, [[Paper](https://arxiv.org/pdf/2303.07240.pdf)]
 
 * **HICLIP: CONTRASTIVE LANGUAGE-IMAGE PRETRAINING WITH HIERARCHY-AWARE ATTENTION**, Shijie Geng, Jianbo Yuan, Yu Tian, Yuxiao Chen, Yongfeng Zhang, ICLR 2023 
