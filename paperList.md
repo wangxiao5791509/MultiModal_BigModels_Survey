@@ -4,6 +4,8 @@
 
 ### Year 2023 
 
+* **Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**, Bingqian Lin et al. [[Paper](https://arxiv.org/pdf/2304.14204.pdf)]
+
 * **CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data**, Yihan Zeng, Chenhan Jiang, Jiageng Mao, Jianhua Han, Chaoqiang Ye, Qingqiu Huang, Dit-Yan Yeung, Zhen Yang, Xiaodan Liang, Hang Xu 
 [[Paper](https://arxiv.org/pdf/2303.12417.pdf)]
 
