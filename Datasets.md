@@ -2,6 +2,11 @@
 * **An overview of multi-modal datasets proposed for large-scale pre-training.** 
 
 
+* Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Pre-training Dataset and Benchmarks, 
+[[Paper](https://arxiv.org/pdf/2306.04362.pdf)] 
+[[Github](https://github.com/X-PLUG/Youku-mPLUG)]
+
+
 * **LAION-5B: An open large-scale dataset for training next generation image-text models**, [[Paper](https://arxiv.org/pdf/2210.08402.pdf)]
 [[Project](https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/)] 
 
