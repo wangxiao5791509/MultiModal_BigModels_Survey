@@ -4,6 +4,12 @@
 
 ### Year 2023 
 
+* 
+
+* **OtterHD: A High-Resolution Multi-modality Model**, Bo Li, Peiyuan Zhang, Jingkang Yang, Yuanhan Zhang, Fanyi Pu, Ziwei Liu 
+[[Paper](https://arxiv.org/pdf/2311.04219.pdf)]
+[[Code](https://github.com/Luodian/Otter)]
+
 * **Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**, Bingqian Lin et al. [[Paper](https://arxiv.org/pdf/2304.14204.pdf)]
 
 * **CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data**, Yihan Zeng, Chenhan Jiang, Jiageng Mao, Jianhua Han, Chaoqiang Ye, Qingqiu Huang, Dit-Yan Yeung, Zhen Yang, Xiaodan Liang, Hang Xu 
