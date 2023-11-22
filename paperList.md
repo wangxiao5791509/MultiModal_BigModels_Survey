@@ -4,7 +4,7 @@
 
 ### Year 2023 
 
-* 
+* **Fuyu-8B: A Multimodal Architecture for AI Agents**, [[https://www.adept.ai/blog/fuyu-8b](https://www.adept.ai/blog/fuyu-8b)]
 
 * **OtterHD: A High-Resolution Multi-modality Model**, Bo Li, Peiyuan Zhang, Jingkang Yang, Yuanhan Zhang, Fanyi Pu, Ziwei Liu 
 [[Paper](https://arxiv.org/pdf/2311.04219.pdf)]
