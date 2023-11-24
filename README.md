@@ -10,7 +10,13 @@
 
 <div align="center">  
 
-**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, [Xiao Wang](https://wangxiao5791509.github.io/), [Guangyao Chen](https://icgy96.github.io/), Guangwu Qian, Pengcheng Gao, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=zh-CN&oi=ao), [Yaowei Wang](https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=zh-CN&oi=ao), [Yonghong Tian](https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=zh-CN&oi=ao), [Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=zh-CN&oi=ao). [[Paper](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/_PCL__Large_scale_Multi_Modal_Pre_trained_Models__A_Comprehensive_Survey.pdf)]
+**Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**, [Xiao Wang](https://wangxiao5791509.github.io/), [Guangyao Chen](https://icgy96.github.io/), Guangwu Qian, Pengcheng Gao, [Xiao-Yong Wei](https://scholar.google.com/citations?user=8kxWTokAAAAJ&hl=zh-CN&oi=ao), [Yaowei Wang](https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=zh-CN&oi=ao), [Yonghong Tian](https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=zh-CN&oi=ao), [Wen Gao](https://scholar.google.com/citations?user=b0vWahYAAAAJ&hl=zh-CN&oi=ao). 
+[[arXiv](https://arxiv.org/abs/2302.10035)] 
+[[MIR](https://www.mi-research.net/article/doi/10.1007/s11633-022-1410-8)]
+[[极市平台公众号](https://mp.weixin.qq.com/s/5eELXfACI67yZT7WUtMFMA)]
+[[机器智能研究MIR(MIR编辑部)](https://mp.weixin.qq.com/s/yX1DdDCA-nMluzOB6Qz3sw)]
+[[Machine Intelligence Research (Youtube)](https://youtu.be/zQxV-SUz6zU?si=e27cyVjMUdU-XEwd)]
+
 
 ------
   
