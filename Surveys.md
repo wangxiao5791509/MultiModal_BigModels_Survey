@@ -29,9 +29,6 @@
 | ***[25] A Roadmap for Big Model.*** <br />   | [[**Paper**](https://arxiv.org/abs/2203.14101)]  |2022    |arXiv    |NLP, CV, MM    |SC, 200   | 
 | ***[26] Vision-and-Language Pretrained Models: A Survey.*** <br />   | [[**Paper**](https://arxiv.org/abs/2204.07356)]  |2022    |IJCAI    |MM    |DC, 8   |
 | ***[27] Multimodal Learning with Transformers: A Survey.*** <br />   | [[**Paper**](https://arxiv.org/abs/2206.06488)]  |2022    |arXiv    |MM    |DC, 23   |
-
-
-
-
+| ***[28] MM-LLMs: Recent Advances in MultiModal Large Language Models.*** <br />   | [[**Paper**](https://arxiv.org/pdf/2401.13601.pdf)]  |2024    |arXiv    |MM    |  |
 
 
