@@ -2,8 +2,15 @@
 
 
 
-### Year 2023 
 
+### Year 2024 
+
+* **InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models**, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Xilin Wei, Songyang Zhang, Haodong Duan, Maosong Cao, Wenwei Zhang, Yining Li, Hang Yan, Yang Gao, Xinyue Zhang, Wei Li, Jingwen Li, Kai Chen, Conghui He, Xingcheng Zhang, Yu Qiao, Dahua Lin, Jiaqi Wang 
+  [[Paper](https://arxiv.org/pdf/2401.16420.pdf)]
+  [[Code](https://github.com/InternLM/InternLM-XComposer)] 
+
+
+### Year 2023 
 
 * **PALI-3 VISION LANGUAGE MODELS: SMALLER, FASTER, STRONGER**,
 [[Paper](https://arxiv.org/pdf/2310.09199.pdf)]
