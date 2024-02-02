@@ -1,4 +1,9 @@
 
+### 
+
+* **InfMAE: A Foundation Model in Infrared Modality**, Fangcen Liu, Chenqiang Gao, Yaming Zhang, Junjie Guo, Jinhao Wang, Deyu Meng
+  [[Paper](https://arxiv.org/abs/2402.00407)]
+  [[Code](https://github.com/liufangcen/InfMAE)] 
 
 * **Quality-aware Pre-trained Models for Blind Image Quality Assessment**, Kai Zhao, Kun Yuan, Ming Sun, Mading Li and Xing Wen 
 [[Paper](https://arxiv.org/pdf/2303.00521.pdf)]
