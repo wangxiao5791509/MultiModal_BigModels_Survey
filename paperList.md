@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* **EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters**, Quan Sun, Jinsheng Wang, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang
+  [[Paper](https://arxiv.org/abs/2402.04252)]
+  [[Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)] 
+
 * **InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Models**, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Bin Wang, Linke Ouyang, Xilin Wei, Songyang Zhang, Haodong Duan, Maosong Cao, Wenwei Zhang, Yining Li, Hang Yan, Yang Gao, Xinyue Zhang, Wei Li, Jingwen Li, Kai Chen, Conghui He, Xingcheng Zhang, Yu Qiao, Dahua Lin, Jiaqi Wang 
   [[Paper](https://arxiv.org/pdf/2401.16420.pdf)]
   [[Code](https://github.com/InternLM/InternLM-XComposer)] 
