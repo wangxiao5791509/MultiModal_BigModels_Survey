@@ -1,6 +1,10 @@
 
 ### 
 
+* **ChemLLM: A Chemical Large Language Model**, Di Zhang, Wei Liu, Qian Tan, Jingdan Chen, Hang Yan, Yuliang Yan, Jiatong Li, Weiran Huang, Xiangyu Yue, Dongzhan Zhou, Shufei Zhang, Mao Su, Hansen Zhong, Yuqiang Li, Wanli Ouyang
+  [[Paper](https://arxiv.org/abs/2402.06852)]
+  [[Code](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)] 
+
 * **InfMAE: A Foundation Model in Infrared Modality**, Fangcen Liu, Chenqiang Gao, Yaming Zhang, Junjie Guo, Jinhao Wang, Deyu Meng
   [[Paper](https://arxiv.org/abs/2402.00407)]
   [[Code](https://github.com/liufangcen/InfMAE)] 
