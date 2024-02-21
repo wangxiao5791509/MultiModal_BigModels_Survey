@@ -32,3 +32,7 @@
 | ***[28] MM-LLMs: Recent Advances in MultiModal Large Language Models.*** <br />   | [[**Paper**](https://arxiv.org/pdf/2401.13601.pdf)]  |2024    |arXiv    |MM    |DC, 22  |
 
 
+* **The (R)Evolution of Multimodal Large Language Models: A Survey**, Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sarto, Lorenzo Baraldi, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara
+  [[Paper](https://arxiv.org/abs/2402.12451)] 
+
+
