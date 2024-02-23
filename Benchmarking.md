@@ -1,6 +1,9 @@
 ### Year 2024 
 
 
+* **Uncertainty-Aware Evaluation for Vision-Language Models**, Vasily Kostumov, Bulat Nutfullin, Oleg Pilipenko, Eugene Ilyushin
+  [[Paper](https://arxiv.org/abs/2402.14418)] 
+
 * **MM-Soc: Benchmarking Multimodal Large Language Models in Social Media Platforms**, Yiqiao Jin, Minje Choi, Gaurav Verma, Jindong Wang, Srijan Kumar
   [[Paper](https://arxiv.org/abs/2402.14154)]
   
@@ -16,6 +19,4 @@
 
 * Kamath, Amita, Jack Hessel, and Kai-Wei Chang. "**What's" up" with vision-language models? Investigating their struggle with spatial reasoning.**" arXiv preprint arXiv:2310.19785 (2023).
   [[Paper](https://arxiv.org/pdf/2310.19785.pdf)]
-  [[Code](https://github.com/amitakamath/whatsup_vlms)]
-
-* 
+  [[Code](https://github.com/amitakamath/whatsup_vlms)] 
