@@ -1,6 +1,9 @@
 ### Year 2024 
 
 
+* **Visual Hallucinations of Multi-modal Large Language Models**, Wen Huang, Hongbin Liu, Minxin Guo, Neil Zhenqiang Gong
+  [[Paper](https://arxiv.org/abs/2402.14683)] 
+
 * **Uncertainty-Aware Evaluation for Vision-Language Models**, Vasily Kostumov, Bulat Nutfullin, Oleg Pilipenko, Eugene Ilyushin
   [[Paper](https://arxiv.org/abs/2402.14418)] 
 
