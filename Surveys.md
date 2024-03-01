@@ -33,6 +33,10 @@
 
 
 * **The (R)Evolution of Multimodal Large Language Models: A Survey**, Davide Caffagni, Federico Cocchi, Luca Barsellotti, Nicholas Moratelli, Sara Sarto, Lorenzo Baraldi, Lorenzo Baraldi, Marcella Cornia, Rita Cucchiara
-  [[Paper](https://arxiv.org/abs/2402.12451)] 
+  [[Paper](https://arxiv.org/abs/2402.12451)]
+
+* **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**, Yixin Liu, Kai Zhang, Yuan Li, Zhiling Yan, Chujie Gao, Ruoxi Chen, Zhengqing Yuan, Yue Huang, Hanchi Sun, Jianfeng Gao, Lifang He, Lichao Sun
+  [[Paper](https://arxiv.org/abs/2402.17177)]
+
 
 
