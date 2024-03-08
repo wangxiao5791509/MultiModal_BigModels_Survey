@@ -2,6 +2,9 @@
 ### 
 
 
+* **SaulLM-7B: A pioneering Large Language Model for Law**, Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado, Michael Desa
+  [[Paper](https://arxiv.org/abs/2403.03883)] 
+
 * [Time Series] **UniTS: Building a Unified Time Series Model**, Shanghua Gao, Teddy Koker, Owen Queen, Thomas Hartvigsen, Theodoros Tsiligkaridis, Marinka Zitnik
   [[Paper](https://arxiv.org/abs/2403.00131)]
   [[Code](https://github.com/mims-harvard/UniTS)] 
