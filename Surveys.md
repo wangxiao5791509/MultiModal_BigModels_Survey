@@ -38,5 +38,15 @@
 * **Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models**, Yixin Liu, Kai Zhang, Yuan Li, Zhiling Yan, Chujie Gao, Ruoxi Chen, Zhengqing Yuan, Yue Huang, Hanchi Sun, Jianfeng Gao, Lifang He, Lichao Sun
   [[Paper](https://arxiv.org/abs/2402.17177)]
 
+* **On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models**,
+  Xinpeng Wang, Shitong Duan, Xiaoyuan Yi, Jing Yao, Shanlin Zhou, Zhihua Wei, Peng Zhang, Dongkuan Xu, Maosong Sun, Xing Xie
+  [[Paper](https://arxiv.org/abs/2403.04204)]
+
+
+
+
+
+
+
 
 
