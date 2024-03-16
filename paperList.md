@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* **MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**, 
+  Brandon McKinzie, Zhe Gan, Jean-Philippe Fauconnier, Sam Dodge, Bowen Zhang, Philipp Dufter, Dhruti Shah, Xianzhi Du, Futang Peng, Floris Weers, Anton Belyi, Haotian Zhang, Karanjeet Singh, Doug Kang, Hongyu Hè, Max Schwarzer, Tom Gunter, Xiang Kong, Aonan Zhang, Jianyu Wang, Chong Wang, Nan Du, Tao Lei, Sam Wiseman, Mark Lee, Zirui Wang, Ruoming Pang, Peter Grasch, Alexander Toshev, Yinfei Yang
+  [[Paper](https://arxiv.org/abs/2403.09611)] 
+
 * **EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters**, Quan Sun, Jinsheng Wang, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang
   [[Paper](https://arxiv.org/abs/2402.04252)]
   [[Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)] 
