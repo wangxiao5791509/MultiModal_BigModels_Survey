@@ -40,7 +40,12 @@
 
 * **On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models**,
   Xinpeng Wang, Shitong Duan, Xiaoyuan Yi, Jing Yao, Shanlin Zhou, Zhihua Wei, Peng Zhang, Dongkuan Xu, Maosong Sun, Xing Xie
-  [[Paper](https://arxiv.org/abs/2403.04204)]
+  [[Paper](https://arxiv.org/abs/2403.04204)] 
+
+* [arXiv:2405.10739] **Efficient Multimodal Large Language Models: A Survey**, 
+  Yizhang Jin, Jian Li, Yexin Liu, Tianjun Gu, Kai Wu, Zhengkai Jiang, Muyang He, Bo Zhao, Xin Tan, Zhenye Gan, Yabiao Wang, Chengjie Wang, Lizhuang Ma
+  [[Paper](https://arxiv.org/abs/2405.10739)]
+  [[Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)] 
 
 
 
