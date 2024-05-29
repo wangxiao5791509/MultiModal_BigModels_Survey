@@ -47,6 +47,8 @@
   [[Paper](https://arxiv.org/abs/2405.10739)]
   [[Code](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey)] 
 
+* **The Evolution of Multimodal Model Architectures**, Shakti N. Wadekar, Abhishek Chaurasia, Aman Chadha, Eugenio Culurciello
+  [[Paper](https://arxiv.org/abs/2405.17927)] 
 
 
 
