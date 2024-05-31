@@ -50,7 +50,8 @@
 * **The Evolution of Multimodal Model Architectures**, Shakti N. Wadekar, Abhishek Chaurasia, Aman Chadha, Eugenio Culurciello
   [[Paper](https://arxiv.org/abs/2405.17927)] 
 
-
+* [arXiv:2405.17247] **An Introduction to Vision-Language Modeling**, Florian Bordes et al.
+  [[Paper](https://arxiv.org/abs/2405.17247)] 
 
 
 
