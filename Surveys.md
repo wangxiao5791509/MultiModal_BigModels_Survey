@@ -53,6 +53,10 @@
 * [arXiv:2405.17247] **An Introduction to Vision-Language Modeling**, Florian Bordes et al.
   [[Paper](https://arxiv.org/abs/2405.17247)] 
 
+* [arXiv:2406.09385] **Towards Vision-Language Geo-Foundation Model: A Survey**, Yue Zhou, Litong Feng, Yiping Ke, Xue Jiang, Junchi Yan, Xue Yang, Wayne Zhang
+  [[Paper](https://arxiv.org/abs/2406.09385)]
+  [[Github](https://github.com/zytx121/Awesome-VLGFM)]
+
 
 
 
