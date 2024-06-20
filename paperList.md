@@ -6,6 +6,11 @@
 ### Year 2024 
 
 
+* 
+
+* [arXiv:2406.11832] **Unveiling Encoder-Free Vision-Language Models**, Haiwen Diao, Yufeng Cui, Xiaotong Li, Yueze Wang, Huchuan Lu, Xinlong Wang
+  [[Paper](https://arxiv.org/abs/2406.11832)] 
+
 * **Pegasus-v1 Technical Report**, arXiv:2404.14687, Raehyuk Jung, Hyojun Go, Jaehyuk Yi, Jiho Jang, Daniel Kim, Jay Suh, Aiden Lee, Cooper Han, Jae Lee, Jeff Kim, Jin-Young Kim, Junwan Kim, Kyle Park, Lucas Lee, Mars Ha, Minjoon Seo, Abraham Jo, Ed Park, Hassan Kianinejad, SJ Kim, Tony Moon, Wade Jeong, Andrei Popescu, Esther Kim, EK Yoon, Genie Heo, Henry Choi, Jenna Kang, Kevin Han, Noah Seo, Sunny Nguyen, Ryan Won, Yeonhoo Park, Anthony Giuliani, Dave Chung, Hans Yoon, James Le, Jenny Ahn, June Lee, Maninder Saini, Meredith Sanders, Soyoung Lee, Sue Kim, Travis Couture
 [[Paper](https://arxiv.org/abs/2404.14687)] 
 
