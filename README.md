@@ -24,6 +24,10 @@
 
 
 
+## News 
+* [2024.06.20] [MIR 下载量 TOP10 好文 (我们的综述下载量：6618次)] [[MIR编辑部-机器智能研究MIR](https://mp.weixin.qq.com/s/R9uZqe2ZByYHziTp0nZIIA)]
+
+
 ## Framework of this survey
 <img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/framework.png" width="1000px">
 <img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/milestone.jpg" width="1000px">
