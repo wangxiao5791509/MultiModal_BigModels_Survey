@@ -2,6 +2,8 @@
 ### 
 
 
+* [arXiv:2406.12793] **ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**, Team GLM [[Paper](https://arxiv.org/pdf/2406.12793)] 
+
 * **SaulLM-7B: A pioneering Large Language Model for Law**, Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado, Michael Desa
   [[Paper](https://arxiv.org/abs/2403.03883)] 
 
