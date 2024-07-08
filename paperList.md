@@ -5,9 +5,10 @@
 
 ### Year 2024 
 
-
-* 
-
+* [arXiv:2407.03418] **HEMM: Holistic Evaluation of Multimodal Foundation Models**, Paul Pu Liang, Akshay Goindani, Talha Chafekar, Leena Mathur, Haofei Yu, Ruslan Salakhutdinov, Louis-Philippe Morency
+  [[Paper](https://arxiv.org/abs/2407.03418)]
+  [[Code](https://github.com/pliang279/HEMM)]
+  
 * [arXiv:2406.11832] **Unveiling Encoder-Free Vision-Language Models**, Haiwen Diao, Yufeng Cui, Xiaotong Li, Yueze Wang, Huchuan Lu, Xinlong Wang
   [[Paper](https://arxiv.org/abs/2406.11832)] 
 
