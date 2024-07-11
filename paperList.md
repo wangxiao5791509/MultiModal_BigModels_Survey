@@ -5,6 +5,9 @@
 
 ### Year 2024 
 
+* [arXiv:2407.07726] **PaliGemma: A versatile 3B VLM for transfer**, Lucas Beyer, Andreas Steiner, André Susano Pinto, Alexander Kolesnikov, Xiao Wang, Daniel Salz, Maxim Neumann, Ibrahim Alabdulmohsin, Michael Tschannen, Emanuele Bugliarello, Thomas Unterthiner, Daniel Keysers, Skanda Koppula, Fangyu Liu, Adam Grycner, Alexey Gritsenko, Neil Houlsby, Manoj Kumar, Keran Rong, Julian Eisenschlos, Rishabh Kabra, Matthias Bauer, Matko Bošnjak, Xi Chen, Matthias Minderer, Paul Voigtlaender, Ioana Bica, Ivana Balazevic, Joan Puigcerver, Pinelopi Papalampidi, Olivier Henaff, Xi Xiong, Radu Soricut, Jeremiah Harmsen, Xiaohua Zhai
+  [[Paper](https://arxiv.org/abs/2407.07726)]
+  
 * [arXiv:2407.03418] **HEMM: Holistic Evaluation of Multimodal Foundation Models**, Paul Pu Liang, Akshay Goindani, Talha Chafekar, Leena Mathur, Haofei Yu, Ruslan Salakhutdinov, Louis-Philippe Morency
   [[Paper](https://arxiv.org/abs/2407.03418)]
   [[Code](https://github.com/pliang279/HEMM)]
