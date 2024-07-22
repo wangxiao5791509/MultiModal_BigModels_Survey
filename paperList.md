@@ -4,8 +4,10 @@
 
 
 ### Year 2024 
-
-
+* [CVPR 2024] **Improved Baselines with Visual Instruction Tuning**, Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
+  [[Paper](https://arxiv.org/abs/2310.03744)]
+  [[Code](https://llava-vl.github.io/)]
+  
 * [arXiv:2407.14177] **EVLM: An Efficient Vision-Language Model for Visual Understanding**, Kaibing Chen, Dong Shen, Hanwen Zhong, Huasong Zhong, Kui Xia, Di Xu, Wei Yuan, Yifei Hu, Bin Wen, Tianke Zhang, Changyi Liu, Dewen Fan, Huihui Xiao, Jiahong Wu, Fan Yang, Size Li, Di Zhang
   [[Paper](https://arxiv.org/abs/2407.14177)] 
 
@@ -35,16 +37,32 @@
   [[Code](https://github.com/InternLM/InternLM-XComposer)] 
 
 
+
+
+
+
 ### Year 2023 
+
+* [LLaVA] **Visual Instruction Tuning**, Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee, NeurIPS 2023 Oral 
+  [[Paper](https://arxiv.org/abs/2304.08485)]
+  [[Code](https://llava-vl.github.io/)] 
+
+
 
 * **PALI-3 VISION LANGUAGE MODELS: SMALLER, FASTER, STRONGER**,
 [[Paper](https://arxiv.org/pdf/2310.09199.pdf)]
 
+
+
 * **Fuyu-8B: A Multimodal Architecture for AI Agents**, [[https://www.adept.ai/blog/fuyu-8b](https://www.adept.ai/blog/fuyu-8b)]
+
+
 
 * **OtterHD: A High-Resolution Multi-modality Model**, Bo Li, Peiyuan Zhang, Jingkang Yang, Yuanhan Zhang, Fanyi Pu, Ziwei Liu 
 [[Paper](https://arxiv.org/pdf/2311.04219.pdf)]
 [[Code](https://github.com/Luodian/Otter)]
+
+
 
 * **Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining**, Bingqian Lin et al. [[Paper](https://arxiv.org/pdf/2304.14204.pdf)]
 
