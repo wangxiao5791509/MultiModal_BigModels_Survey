@@ -4,6 +4,11 @@
 
 
 ### Year 2024 
+
+* [arXiv:2407.14885] **Falcon2-11B Technical Report**, Quentin Malartic, Nilabhra Roy Chowdhury, Ruxandra Cojocaru, Mugariya Farooq, Giulia Campesan, Yasser Abdelaziz Dahou Djilali, Sanath Narayan, Ankit Singh, Maksim Velikanov, Basma El Amel Boussaha, Mohammed Al-Yafeai, Hamza Alobeidli, Leen Al Qadi, Mohamed El Amine Seddik, Kirill Fedyanin, Reda Alami, Hakim Hacid
+  [[Paper](https://arxiv.org/abs/2407.14885)]
+  [[huggingface](https://huggingface.co/tiiuae)]
+
 * [CVPR 2024] **Improved Baselines with Visual Instruction Tuning**, Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
   [[Paper](https://arxiv.org/abs/2310.03744)]
   [[Code](https://llava-vl.github.io/)]
