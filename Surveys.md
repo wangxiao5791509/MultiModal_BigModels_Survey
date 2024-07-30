@@ -57,7 +57,8 @@
   [[Paper](https://arxiv.org/abs/2406.09385)]
   [[Github](https://github.com/zytx121/Awesome-VLGFM)]
 
-
+* [arXiv:2407.15017] **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**, Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang
+  [[Paper](https://arxiv.org/abs/2407.15017)] 
 
 
 
