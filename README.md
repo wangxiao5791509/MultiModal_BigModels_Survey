@@ -53,6 +53,12 @@ Please check this file [[paperList.md](https://github.com/wangxiao5791509/MultiM
 <img src="https://github.com/wangxiao5791509/MultiModal_BigModels/blob/main/figures/modelsGPUsParmas.png" width="1000px">
 
 
+
+## Other Useful Materials 
+* [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+
+
 ## :page_with_curl: BibTex: 
 If you find this survey useful for your research, please cite the following papers: 
 
