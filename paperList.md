@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* [arXiv:2408.02865] **VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**,
+  Zihan Li, Diping Song, Zefeng Yang, Deming Wang, Fei Li, Xiulan Zhang, Paul E. Kinahan, Yu Qiao
+  [[Paper](https://arxiv.org/abs/2408.02865)] 
+  
 * [arXiv:2408.03326] **LLaVA-OneVision: Easy Visual Task Transfer**,
   Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li
   [[Paper](https://arxiv.org/abs/2408.03326)]
