@@ -60,6 +60,14 @@
 * [arXiv:2407.15017] **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**, Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang
   [[Paper](https://arxiv.org/abs/2407.15017)] 
 
+* [arXiv:2408.01319] **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks**,
+  Jiaqi Wang, Hanqi Jiang, Yiheng Liu, Chong Ma, Xu Zhang, Yi Pan, Mengyuan Liu, Peiran Gu, Sichen Xia, Wenjun Li, Yutong Zhang, Zihao Wu, Zhengliang Liu, Tianyang Zhong, Bao Ge, Tuo Zhang, Ning Qiang, Xintao Hu, Xi Jiang, Xin Zhang, Wei Zhang, Dinggang Shen, Tianming Liu, Shu Zhang
+  [[Paper](https://arxiv.org/abs/2408.01319)]
+
+
+
+
+
 
 
 
