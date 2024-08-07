@@ -5,6 +5,11 @@
 
 ### Year 2024 
 
+* [arXiv:2408.03326] **LLaVA-OneVision: Easy Visual Task Transfer**,
+  Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li
+  [[Paper](https://arxiv.org/abs/2408.03326)]
+  [[Code](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/)] 
+  
 * [arXiv:2407.14885] **Falcon2-11B Technical Report**, Quentin Malartic, Nilabhra Roy Chowdhury, Ruxandra Cojocaru, Mugariya Farooq, Giulia Campesan, Yasser Abdelaziz Dahou Djilali, Sanath Narayan, Ankit Singh, Maksim Velikanov, Basma El Amel Boussaha, Mohammed Al-Yafeai, Hamza Alobeidli, Leen Al Qadi, Mohamed El Amine Seddik, Kirill Fedyanin, Reda Alami, Hakim Hacid
   [[Paper](https://arxiv.org/abs/2407.14885)]
   [[huggingface](https://huggingface.co/tiiuae)]
