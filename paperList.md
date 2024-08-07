@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* [arXiv:2408.02718] **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**,
+  Fanqing Meng, Jin Wang, Chuanhao Li, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao
+  [[Paper](https://arxiv.org/abs/2408.02718)] 
+
 * [arXiv:2408.02865] **VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**,
   Zihan Li, Diping Song, Zefeng Yang, Deming Wang, Fei Li, Xiulan Zhang, Paul E. Kinahan, Yu Qiao
   [[Paper](https://arxiv.org/abs/2408.02865)] 
