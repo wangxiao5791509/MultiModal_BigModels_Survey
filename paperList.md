@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* [arXiv:2408.04840] **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**,
+  Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming Yan, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou
+  https://arxiv.org/abs/2408.04840
+  
 * [arXiv:2408.02718] **MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models**,
   Fanqing Meng, Jin Wang, Chuanhao Li, Quanfeng Lu, Hao Tian, Jiaqi Liao, Xizhou Zhu, Jifeng Dai, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao
   [[Paper](https://arxiv.org/abs/2408.02718)] 
