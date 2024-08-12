@@ -5,6 +5,9 @@
 
 ### Year 2024 
 
+* **VITA: Towards Open-Source Interactive Omni Multimodal LLM**,
+  Chaoyou Fu, Haojia Lin, Zuwei Long, Yunhang Shen, Meng Zhao, Yifan Zhang, Xiong Wang, Di Yin, Long Ma, Xiawu Zheng, Ran He, Rongrong Ji, Yunsheng Wu, Caifeng Shan, Xing Sun https://arxiv.org/abs/2408.05211 
+
 * [arXiv:2408.04840] **mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**,
   Jiabo Ye, Haiyang Xu, Haowei Liu, Anwen Hu, Ming Yan, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou
   https://arxiv.org/abs/2408.04840
