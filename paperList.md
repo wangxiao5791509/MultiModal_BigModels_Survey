@@ -5,6 +5,10 @@
 
 ### Year 2024 
 
+* [arXiv:2408.08872] **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**, Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo, Shrikant Kendre, Jieyu Zhang, Can Qin, Shu Zhang, Chia-Chih Chen, Ning Yu, Juntao Tan, Tulika Manoj Awalgaonkar, Shelby Heinecke, Huan Wang, Yejin Choi, Ludwig Schmidt, Zeyuan Chen, Silvio Savarese, Juan Carlos Niebles, Caiming Xiong, Ran Xu
+[[Paper](https://arxiv.org/abs/2408.08872)]
+[[Project](https://github.com/salesforce/LAVIS/tree/xgen-mm)] 
+
 * **VITA: Towards Open-Source Interactive Omni Multimodal LLM**,
   Chaoyou Fu, Haojia Lin, Zuwei Long, Yunhang Shen, Meng Zhao, Yifan Zhang, Xiong Wang, Di Yin, Long Ma, Xiawu Zheng, Ran He, Rongrong Ji, Yunsheng Wu, Caifeng Shan, Xing Sun https://arxiv.org/abs/2408.05211 
 
