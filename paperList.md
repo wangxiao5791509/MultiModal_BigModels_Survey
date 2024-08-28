@@ -5,6 +5,12 @@
 
 ### Year 2024 
 
+
+* [arXiv:2408.14471] **A Practitioner's Guide to Continual Multimodal Pretraining**, 
+  Karsten Roth, Vishaal Udandarao, Sebastian Dziadzio, Ameya Prabhu, Mehdi Cherti, Oriol Vinyals, Olivier Hénaff, Samuel Albanie, Matthias Bethge, Zeynep Akata 
+  [[Paper](https://arxiv.org/abs/2408.14471)]
+  [[Code](https://github.com/ExplainableML/fomo_in_flux)] 
+  
 * [arXiv:2408.08872] **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**, Le Xue, Manli Shu, Anas Awadalla, Jun Wang, An Yan, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, Yutong Dai, Michael S Ryoo, Shrikant Kendre, Jieyu Zhang, Can Qin, Shu Zhang, Chia-Chih Chen, Ning Yu, Juntao Tan, Tulika Manoj Awalgaonkar, Shelby Heinecke, Huan Wang, Yejin Choi, Ludwig Schmidt, Zeyuan Chen, Silvio Savarese, Juan Carlos Niebles, Caiming Xiong, Ran Xu
 [[Paper](https://arxiv.org/abs/2408.08872)]
 [[Project](https://github.com/salesforce/LAVIS/tree/xgen-mm)] 
