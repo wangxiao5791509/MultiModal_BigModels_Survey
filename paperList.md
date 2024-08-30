@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* [arXiv:2408.16500] **CogVLM2: Visual Language Models for Image and Video Understanding**,
+  Wenyi Hong, Weihan Wang, Ming Ding, Wenmeng Yu, Qingsong Lv, Yan Wang, Yean Cheng, Shiyu Huang, Junhui Ji, Zhao Xue, Lei Zhao, Zhuoyi Yang, Xiaotao Gu, Xiaohan Zhang, Guanyu Feng, Da Yin, Zihan Wang, Ji Qi, Xixuan Song, Peng Zhang, Debing Liu, Bin Xu, Juanzi Li, Yuxiao Dong, Jie Tang 
+  [[Paper](https://arxiv.org/abs/2408.16500)]
+  
 * [arXiv:2408.14471] **A Practitioner's Guide to Continual Multimodal Pretraining**, 
   Karsten Roth, Vishaal Udandarao, Sebastian Dziadzio, Ameya Prabhu, Mehdi Cherti, Oriol Vinyals, Olivier Hénaff, Samuel Albanie, Matthias Bethge, Zeynep Akata 
   [[Paper](https://arxiv.org/abs/2408.14471)]
