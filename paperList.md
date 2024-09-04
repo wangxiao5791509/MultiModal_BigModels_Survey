@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model**,
+  Haoran Wei, Chenglong Liu, Jinyue Chen, Jia Wang, Lingyu Kong, Yanming Xu, Zheng Ge, Liang Zhao, Jianjian Sun, Yuang Peng, Chunrui Han, Xiangyu Zhang
+  [[Paper](https://arxiv.org/abs/2409.01704)] 
+  
 * [arXiv:2408.16500] **CogVLM2: Visual Language Models for Image and Video Understanding**,
   Wenyi Hong, Weihan Wang, Ming Ding, Wenmeng Yu, Qingsong Lv, Yan Wang, Yean Cheng, Shiyu Huang, Junhui Ji, Zhao Xue, Lei Zhao, Zhuoyi Yang, Xiaotao Gu, Xiaohan Zhang, Guanyu Feng, Da Yin, Zihan Wang, Ji Qi, Xixuan Song, Peng Zhang, Debing Liu, Bin Xu, Juanzi Li, Yuxiao Dong, Jie Tang 
   [[Paper](https://arxiv.org/abs/2408.16500)]
