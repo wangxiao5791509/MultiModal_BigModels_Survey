@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* [arXiv:2409.12568] **InfiMM-WebMath-40B: Advancing Multimodal Pre-Training for Enhanced Mathematical Reasoning**,
+  Xiaotian Han, Yiren Jian, Xuefeng Hu, Haogeng Liu, Yiqi Wang, Qihang Fan, Yuang Ai, Huaibo Huang, Ran He, Zhenheng Yang, Quanzeng You
+  [[Paper](https://arxiv.org/abs/2409.12568)] 
+  
 * **General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model**,
   Haoran Wei, Chenglong Liu, Jinyue Chen, Jia Wang, Lingyu Kong, Yanming Xu, Zheng Ge, Liang Zhao, Jianjian Sun, Yuang Peng, Chunrui Han, Xiangyu Zhang
   [[Paper](https://arxiv.org/abs/2409.01704)] 
