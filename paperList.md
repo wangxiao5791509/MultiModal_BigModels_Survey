@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* [arXiv:2409.18111] **E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**,
+  Ye Liu, Zongyang Ma, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen
+  [[Paper](https://arxiv.org/abs/2409.18111)] 
+
 * [] **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**,
   Kai Chen, Yunhao Gou, Runhui Huang, Zhili Liu, Daxin Tan, Jing Xu, Chunwei Wang, Yi Zhu, Yihan Zeng, Kuo Yang, Dingdong Wang, Kun Xiang, Haoyuan Li, Haoli Bai, Jianhua Han, Xiaohui Li, Weike Jin, Nian Xie, Yu Zhang, James T. Kwok, Hengshuang Zhao, Xiaodan Liang, Dit-Yan Yeung, Xiao Chen, Zhenguo Li, Wei Zhang, Qun Liu, Lanqing Hong, Lu Hou, Hang Xu
   [[Paper](https://arxiv.org/abs/2409.18042)] 
