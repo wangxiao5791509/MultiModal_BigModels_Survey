@@ -5,6 +5,8 @@
 
 ### Year 2024 
 
+* **Emu3: Next-Token Prediction is All You Need**, Emu3 Team, BAAI
+  [[Paper](https://arxiv.org/pdf/2409.18869)] 
 
 * [arXiv:2409.18119] **Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**,
   Yuexi Du, John Onofrey, Nicha C. Dvornek
