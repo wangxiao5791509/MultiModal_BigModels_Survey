@@ -5,6 +5,17 @@
 
 ### Year 2024 
 
+
+* [**Liquid Foundation Models: Our First Series of Generative AI Models**](https://www.liquid.ai/liquid-foundation-models)
+  [[Github](https://github.com/kyegomez/LFM)]
+  [[https://www.liquid.ai/liquid-foundation-models](https://www.liquid.ai/liquid-foundation-models)]
+  [[Blog](https://hereiskunalverma.medium.com/liquid-foundation-models-next-frontier-of-ai-df394f51fc7a)]
+  [[From Liquid Neural Networks to Liquid Foundation Models](https://www.liquid.ai/blog/liquid-neural-networks-research)]
+  [[https://playground.liquid.ai/chat](https://playground.liquid.ai/chat)]
+  [[Liquid Foundation Models - 3 LLMs (1B, 3B, 40B) on Custom Architecture-Youtube](https://www.youtube.com/watch?v=l3M0DXU0UjM&ab_channel=FahdMirza)]
+  
+
+
 * **Emu3: Next-Token Prediction is All You Need**, Emu3 Team, BAAI
   [[Paper](https://arxiv.org/pdf/2409.18869)] 
 
