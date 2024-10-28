@@ -6,6 +6,9 @@
 ### Year 2024 
 
 
+* [arXiv:2410.18927] Ying, Zonghao, et al. "**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**." arXiv preprint arXiv:2410.18927 (2024).
+  [[Paper](https://arxiv.org/abs/2410.18927)] 
+
 * [arXiv:2410.18857] **Probabilistic Language-Image Pre-Training**,
   Sanghyuk Chun, Wonjae Kim, Song Park, Sangdoo Yun
   [[Paper](https://arxiv.org/abs/2410.18857)] 
