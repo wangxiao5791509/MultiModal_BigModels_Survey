@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* [arXiv:2412.00832] **EventGPT: Event Stream Understanding with Multimodal Large Language Models**,
+  Shaoyu Liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, Ming Li
+  [[Paper](https://arxiv.org/abs/2412.00832)]
+  
 * **BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices**,
   Xudong Lu, Yinghao Chen, Cheng Chen, Hui Tan, Boheng Chen, Yina Xie, Rui Hu, Guanxin Tan, Renshou Wu, Yan Hu, Yi Zeng, Lei Wu, Liuyang Bian, Zhaoxiong Wang, Long Liu, Yanzhou Yang, Han Xiao, Aojun Zhou, Yafei Wen, Xiaoxin Chen, Shuai Ren, Hongsheng Li
   [[Paper](https://arxiv.org/abs/2411.10640)] 
