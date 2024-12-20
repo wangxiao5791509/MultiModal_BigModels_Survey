@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training**,
+  Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang
+  [[Paper](https://arxiv.org/abs/2412.11863)] 
+
 * [arXiv:2412.00832] **EventGPT: Event Stream Understanding with Multimodal Large Language Models**,
   Shaoyu Liu, Jianing Li, Guanghui Zhao, Yunjian Zhang, Xin Meng, Fei Richard Yu, Xiangyang Ji, Ming Li
   [[Paper](https://arxiv.org/abs/2412.00832)]
