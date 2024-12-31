@@ -6,6 +6,10 @@
 ### Year 2024 
 
 
+* [NIPS 2024] **Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**,
+  Hao Fei, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
+  [[Paper](https://arxiv.org/abs/2412.19806)] 
+
 * **GeoX: Geometric Problem Solving Through Unified Formalized Vision-Language Pre-training**,
   Renqiu Xia, Mingsheng Li, Hancheng Ye, Wenjie Wu, Hongbin Zhou, Jiakang Yuan, Tianshuo Peng, Xinyu Cai, Xiangchao Yan, Bin Wang, Conghui He, Botian Shi, Tao Chen, Junchi Yan, Bo Zhang
   [[Paper](https://arxiv.org/abs/2412.11863)] 
