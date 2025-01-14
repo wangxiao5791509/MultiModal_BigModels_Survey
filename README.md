@@ -23,8 +23,12 @@
 </div>
 
 
+<img src="https://github.com/wangxiao5791509/MultiModal_BigModels_Survey/blob/main/MIRtop3_2025.01.14.png" width="1000px">
+
+
 
 ## News 
+* [2025.01.14] [MIR 下载量 TOP10 好文 (我们的综述下载量：10K次)] [[MIR编辑部-机器智能研究MIR](https://mp.weixin.qq.com/s/UawMKDBEkuPrB4AnlYlatg)]
 * [2024.06.20] [MIR 下载量 TOP10 好文 (我们的综述下载量：6618次)] [[MIR编辑部-机器智能研究MIR](https://mp.weixin.qq.com/s/R9uZqe2ZByYHziTp0nZIIA)]
 
 
