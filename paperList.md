@@ -3,8 +3,14 @@
 
 
 
-### Year 2024 
+### Year 2025 
 
+* [arXiv:2501.14548] **Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**,
+  Zhongyi Shui, Jianpeng Zhang, Weiwei Cao, Sinuo Wang, Ruizhe Guo, Le Lu, Lin Yang, Xianghua Ye, Tingbo Liang, Qi Zhang, Ling Zhang
+  [[Paper](https://arxiv.org/abs/2501.14548)] 
+
+
+### Year 2024 
 
 * [NIPS 2024] **Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**,
   Hao Fei, Shengqiong Wu, Hanwang Zhang, Tat-Seng Chua, Shuicheng Yan
