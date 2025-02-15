@@ -5,6 +5,11 @@
 
 ### Year 2025 
 
+
+* Song, Shezheng, et al. "**How to Bridge the Gap between Modalities: Survey on Multimodal Large Language Model.**"
+  IEEE Transactions on Knowledge and Data Engineering (2025).
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10841938)]
+  
 * [arXiv:2501.14548] **Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**,
   Zhongyi Shui, Jianpeng Zhang, Weiwei Cao, Sinuo Wang, Ruizhe Guo, Le Lu, Lin Yang, Xianghua Ye, Tingbo Liang, Qi Zhang, Ling Zhang
   [[Paper](https://arxiv.org/abs/2501.14548)] 
